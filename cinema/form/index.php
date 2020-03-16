@@ -88,7 +88,7 @@
                                     shop in center
                                     of the city</h3>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                                <a href="#" class="boxed-btn3">Appointment</a>
+                                <a href="#test-form" class="boxed-btn3">Appointment</a>
                             </div>
                         </div>
                     </div>
@@ -103,7 +103,7 @@
                                     shop in center
                                     of the city</h3>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                                <a href="#" class="boxed-btn3">Appointment</a>
+                                <a href="#test-form" class="boxed-btn3">Appointment</a>
                             </div>
                         </div>
                     </div>
@@ -118,7 +118,7 @@
                                     shop in center
                                     of the city</h3>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                                <a href="#" class="boxed-btn3">Appointment</a>
+                                <a href="#test-form" class="boxed-btn3">Appointment</a>
                             </div>
                         </div>
                     </div>

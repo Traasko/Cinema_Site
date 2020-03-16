@@ -3,7 +3,7 @@
 require('../manager/manager_connexion.php');
 require('../model/class_inscription.php');
 
-$inscription = new Inscription($_POST['nom'], $_POST['prenom'], $_POST['mail'], $_POST['mdp']);
+$inscription = new Inscription($_POST['nom'], $_POST['prenom'], $_POST['mail'], $_POST['mdp'], $_POST['age']);
 $manager = new Manager();
 $manager -> inscription($inscription);
 
