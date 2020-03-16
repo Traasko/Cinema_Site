@@ -51,7 +51,7 @@
                                     <div class="main-menu">
                                         <nav>
                                             <ul id="navigation">
-                                                <li><a class="active" href="index.html">A propos</a></li>
+                                                <li><a class="active" href="apropos.php">A propos</a></li>
                                                 <li><a href="services.php">Services</a></li>
                                                 <li><a href="apropos.php">A propos</a></li>
                                                 <li><a href="contact.php">Contact</a></li>
