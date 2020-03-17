@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Barber</title>
+    <title>Site cinéma</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -84,10 +84,8 @@
                     <div class="row">
                         <div class="col-lg-6 col-md-8">
                             <div class="slider_text">
-                                <h3>Modern barber
-                                    shop in center
-                                    of the city</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                <h3>Trasgoii : Films, séries TV et bien plus en illimité</h3>
+                                <p>Retrouvez les dernières sorties de films. Découvrez de nouveaux films et séries TV chaque semaine, il y en a pour tous les goûts !</p>
                                 <a href="#test-form" class="boxed-btn3">Appointment</a>
                             </div>
                         </div>
@@ -99,10 +97,8 @@
                     <div class="row">
                         <div class="col-lg-6 col-md-8">
                             <div class="slider_text">
-                                <h3>Modern barber
-                                    shop in center
-                                    of the city</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                <h3>Trasgoii : Films, séries TV et bien plus en illimité</h3>
+                                <p>Retrouvez les dernières sorties de films. Découvrez de nouveaux films et séries TV chaque semaine, il y en a pour tous les goûts !</p>
                                 <a href="#test-form" class="boxed-btn3">Appointment</a>
                             </div>
                         </div>
@@ -114,10 +110,8 @@
                     <div class="row">
                         <div class="col-lg-6 col-md-8">
                             <div class="slider_text">
-                                <h3>Modern barber
-                                    shop in center
-                                    of the city</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                <h3>Trasgoii : Films, séries TV et bien plus en illimitéh3>
+                                <p>Retrouvez les dernières sorties de films. Découvrez de nouveaux films et séries TV chaque semaine, il y en a pour tous les goûts !</p>
                                 <a href="#test-form" class="boxed-btn3">Appointment</a>
                             </div>
                         </div>
