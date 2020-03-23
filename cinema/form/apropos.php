@@ -40,7 +40,7 @@
                     <div class="row align-items-center">
                         <div class="col-xl-3 col-lg-3">
                             <div class="logo-img">
-                                <a href="index.html">
+                                <a href="index.php">
                                     <img src="img/logo.png" alt="">
                                 </a>
                             </div>
@@ -51,27 +51,16 @@
                                     <div class="main-menu">
                                         <nav>
                                             <ul id="navigation">
-                                                <li><a class="active" href="index.html">home</a></li>
-                                                <li><a href="service.html">service</a></li>
-                                                <li><a href="#">blog <i class="ti-angle-down"></i></a>
-                                                    <ul class="submenu">
-                                                        <li><a href="blog.html">blog</a></li>
-                                                        <li><a href="single-blog.html">single-blog</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li><a href="#">pages <i class="ti-angle-down"></i></a>
-                                                    <ul class="submenu">
-                                                        <li><a href="about.html">about</a></li>
-                                                        <li><a href="elements.html">elements</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li><a href="contact.html">Contact</a></li>
-                                            </ul>
+                                                <li><a class="active" href="apropos.php">A propos</a></li>
+                                                <li><a href="services.php">Services</a></li>
+                                                <li><a href="apropos.php">A propos</a></li>
+                                                <li><a href="contact.php">Contact</a></li>
+                                              </ul>
                                         </nav>
                                     </div>
                                     <div class="book_room">
                                         <div class="book_btn">
-                                            <a class="popup-with-form" href="#test-form">Appointment</a>
+                                            <a class="popup-with-form" href="#test-form">Reservation</a>
                                         </div>
                                     </div>
                                 </div>
@@ -92,7 +81,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h3>About us</h3>
+                    <h3>Nous concernant</h3>
                 </div>
             </div>
         </div>
@@ -116,14 +105,14 @@
                 <div class="col-xl-6 col-lg-6 col-md-6">
                     <div class="about_info">
                         <div class="section_title mb-20px">
-                            <h3>About Us</h3>
+                            <h3>Nous concernant</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing eliteiusmod tempor incididunt ut labore et dolore magna aliqua. Qpsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Quis ipsum suspendisse ultr.</p>
                         </div>
                         <p class="opening_hour">
-                            Opening Hour
-                            <span>10:00 am - 10:00 pm</span>
+                            Heures d'ouvertures
+                            <span>10:30 - 23:59 </span>
                         </p>
-                        <a href="about.html" class="boxed-btn3">About Us</a>
+                        <a href="about.html" class="boxed-btn3">Nous concernant</a>
                     </div>
                 </div>
             </div>
@@ -137,8 +126,8 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-md-10">
                     <div class="section_title text-center mb-55">
-                        <h3>Barber</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
+                        <h3>Films</h3>
+                        <p>Retrouvez les dernières sorties de films. Découvrez de nouveaux films et séries TV chaque semaine, il y en a pour tous les goûts !</p>
                     </div>
                 </div>
             </div>
@@ -146,10 +135,10 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single_team_member">
                         <div class="team_thumb">
-                            <img src="img/team/1.png" alt="">
+                            <img src="img/service/1.png" alt="">
                         </div>
                         <div class="member_info text-center">
-                            <h3>Jhon Smith</h3>
+                            <h3>Joker</h3>
                             <p>Junior Barber</p>
                         </div>
                     </div>
@@ -157,10 +146,10 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single_team_member">
                         <div class="team_thumb">
-                            <img src="img/team/2.png" alt="">
+                            <img src="img/service/2.png" alt="">
                         </div>
                         <div class="member_info text-center">
-                            <h3>Jems Smith</h3>
+                            <h3>Sacarface</h3>
                             <p>Junior Barber</p>
                         </div>
                     </div>

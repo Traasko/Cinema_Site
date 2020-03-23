@@ -33,58 +33,47 @@
         <![endif]-->
 
     <!-- header-start -->
-    <header>
-        <div class="header-area ">
-            <div id="sticky-header" class="main-header-area">
-                <div class="container">
-                    <div class="row align-items-center">
-                        <div class="col-xl-3 col-lg-3">
-                            <div class="logo-img">
-                                <a href="index.html">
-                                    <img src="img/logo.png" alt="">
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-xl-9 col-lg-9">
-                            <div class="menu_wrap d-none d-lg-block">
-                                <div class="menu_wrap_inner d-flex align-items-center justify-content-end">
-                                    <div class="main-menu">
-                                        <nav>
-                                            <ul id="navigation">
-                                                <li><a class="active" href="index.html">home</a></li>
-                                                <li><a href="service.html">service</a></li>
-                                                <li><a href="#">blog <i class="ti-angle-down"></i></a>
-                                                    <ul class="submenu">
-                                                        <li><a href="blog.html">blog</a></li>
-                                                        <li><a href="single-blog.html">single-blog</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li><a href="#">pages <i class="ti-angle-down"></i></a>
-                                                    <ul class="submenu">
-                                                        <li><a href="about.html">about</a></li>
-                                                        <li><a href="elements.html">elements</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li><a href="contact.html">Contact</a></li>
-                                            </ul>
-                                        </nav>
-                                    </div>
-                                    <div class="book_room">
-                                        <div class="book_btn">
-                                            <a class="popup-with-form" href="#test-form">Appointment</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-12">
-                            <div class="mobile_menu d-block d-lg-none"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
+		<header>
+				<div class="header-area ">
+						<div id="sticky-header" class="main-header-area">
+								<div class="container">
+										<div class="row align-items-center">
+												<div class="col-xl-3 col-lg-3">
+														<div class="logo-img">
+																<a href="index.php">
+																		<img src="img/logo.png" alt="">
+																</a>
+														</div>
+												</div>
+												<div class="col-xl-9 col-lg-9">
+														<div class="menu_wrap d-none d-lg-block">
+																<div class="menu_wrap_inner d-flex align-items-center justify-content-end">
+																		<div class="main-menu">
+																				<nav>
+																						<ul id="navigation">
+																								<li><a class="active" href="apropos.php">A propos</a></li>
+																								<li><a href="services.php">Services</a></li>
+																								<li><a href="apropos.php">A propos</a></li>
+																								<li><a href="contact.php">Contact</a></li>
+																							</ul>
+																				</nav>
+																		</div>
+																		<div class="book_room">
+																				<div class="book_btn">
+																						<a class="popup-with-form" href="#test-form">Reservation</a>
+																				</div>
+																		</div>
+																</div>
+														</div>
+												</div>
+												<div class="col-12">
+														<div class="mobile_menu d-block d-lg-none"></div>
+												</div>
+										</div>
+								</div>
+						</div>
+				</div>
+		</header>
     <!-- header-end -->
 
      <!-- bradcam_area_start -->

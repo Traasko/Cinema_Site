@@ -147,7 +147,7 @@
                           </div>
                         <p class="opening_hour">
                             Horaires
-                            <span>10:30 - 00:00 </span>
+                            <span>10:30 - 23:59 </span>
                         </p>
                         <a href="apropos.php" class="boxed-btn3">Nous concernant</a>
                     </div>
@@ -162,7 +162,7 @@
             <div class="row justify-content-center ">
                 <div class="col-lg-6 col-md-10">
                     <div class="section_title text-center mb-55">
-                        <h3>Différents films</h3>
+                        <h3>Films</h3>
                         <p>Retrouvez les dernières sorties de films. Découvrez de nouveaux films et séries TV chaque semaine, il y en a pour tous les goûts !</p>
                     </div>
                 </div>
@@ -191,7 +191,7 @@
                             <div class="icon">
                                 <i class="flaticon-barber"></i>
                             </div>
-                            <h3>Sonic</h3>
+                            <h3>Le Parrain</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut</p>
                          </div>
                     </div>
@@ -205,7 +205,7 @@
                             <div class="icon">
                                 <i class="flaticon-null"></i>
                             </div>
-                            <h3>Le Parrain</h3>
+                            <h3>Sonic</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut</p>
                          </div>
                     </div>
