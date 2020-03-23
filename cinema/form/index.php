@@ -6,20 +6,11 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 
     <title>TRASGOII</title>
-<<<<<<< HEAD
-
     <title>Site cinéma</title>
-=======
-    <title>Site cinéma</title>
-<<<<<<< HEAD
-
->>>>>>> 1ebb228b3db4a8dc79372a9e5cd6f5c7f42fae1e
-=======
 <<<<<<< HEAD
 
 =======
 >>>>>>> 827363ffd12248e01420ec43158f3cee244b6462
->>>>>>> 1818d09c52410f4f92ee4c517d0511f17d7d4d41
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -101,7 +92,7 @@
                             <div class="slider_text">
                                 <h3>Trasgoii : Films, séries TV et bien plus en illimité</h3>
                                 <p>Retrouvez les dernières sorties de films. Découvrez de nouveaux films et séries TV chaque semaine, il y en a pour tous les goûts !</p>
-                                <a href="#test-form" class="boxed-btn3">Réservation</a>
+                                <a href="#test-form" class="boxed-btn3">Appointment</a>
                             </div>
                         </div>
                     </div>
@@ -114,7 +105,7 @@
                             <div class="slider_text">
                                 <h3>Trasgoii : Films, séries TV et bien plus en illimité</h3>
                                 <p>Retrouvez les dernières sorties de films. Découvrez de nouveaux films et séries TV chaque semaine, il y en a pour tous les goûts !</p>
-                                <a href="#test-form" class="boxed-btn3">Réservation</a>
+                                <a href="#test-form" class="boxed-btn3">Appointment</a>
                             </div>
                         </div>
                     </div>
@@ -125,9 +116,9 @@
                     <div class="row">
                         <div class="col-lg-6 col-md-8">
                             <div class="slider_text">
-                                <h3>Trasgoii : Films, séries TV et bien plus en illimité</h3>
+                                <h3>Trasgoii : Films, séries TV et bien plus en illimité>
                                 <p>Retrouvez les dernières sorties de films. Découvrez de nouveaux films et séries TV chaque semaine, il y en a pour tous les goûts !</p>
-                                <a href="#test-form" class="boxed-btn3">Réservation</a>
+                                <a href="#test-form" class="boxed-btn3">Appointment</a>
                             </div>
                         </div>
                     </div>
@@ -152,12 +143,6 @@
                 <div class="col-xl-6 col-lg-8 col-md-9">
                     <div class="about_info">
                         <div class="section_title mb-20px">
-                            <h3>Nous concernant</h3>
-                            <p>Retrouvez les dernières sorties de films. Découvrez de nouveaux films et séries TV chaque semaine, il y en a pour tous les goûts !</p>
-                          </div>
-                        <p class="opening_hour">
-                            Horaires
-                            <span>10:30 - 23:59 </span>
                             <h3>À l'affiche</h3>
                             <p>Qui vous sauvera de vous-même ?
 Will Smith se dédouble sur l'affiche française de GEMINI MAN, le nouveau film d'Ang Lee, où il incarne un tueur professionnel pris pour cible par un mystérieux jeune agent qui s'avère être... lui-même </p>
@@ -166,7 +151,7 @@ Will Smith se dédouble sur l'affiche française de GEMINI MAN, le nouveau film 
                             Séances
                             <span>10:00 h - 15:00 h</span>
                         </p>
-                        <a href="apropos.php" class="boxed-btn3">Nous concernant</a>
+                        <a href="about.html" class="boxed-btn3">About Us</a>
                     </div>
                 </div>
             </div>
@@ -179,8 +164,6 @@ Will Smith se dédouble sur l'affiche française de GEMINI MAN, le nouveau film 
             <div class="row justify-content-center ">
                 <div class="col-lg-6 col-md-10">
                     <div class="section_title text-center mb-55">
-                        <h3>Films</h3>
-                        <p>Retrouvez les dernières sorties de films. Découvrez de nouveaux films et séries TV chaque semaine, il y en a pour tous les goûts !</p>
                         <h3>Films proposés</h3>
                         <p>Réservez votre séance dès maintenant !
                         <br/> à bienôt dans nos salles !</p>
@@ -197,8 +180,6 @@ Will Smith se dédouble sur l'affiche française de GEMINI MAN, le nouveau film 
                             <div class="icon">
                                 <img src="img/testmonial/joker.png" alt="">
                             </div>
-                            <h3>Gemini Man</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut</p>
                             <h3>Joker</h3>
                             <p>Le film, qui relate une histoire originale inédite sur grand écran, se focalise sur la figure emblématique de l'ennemi juré de Batman. Il brosse le portrait d'Arthur Fleck, un homme sans concession méprisé par la société.</p>
                          </div>
@@ -213,8 +194,6 @@ Will Smith se dédouble sur l'affiche française de GEMINI MAN, le nouveau film 
                             <div class="icon">
                                 <img src="img/testmonial/sonic.png" alt="">
                             </div>
-                            <h3>Le Parrain</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut</p>
                             <h3>Sonic, le film</h3>
                             <p>L'histoire du hérisson bleu le plus rapide du monde qui arrive sur Terre, sa nouvelle maison. Sonic et son nouveau meilleur ami Tom font équipe pour sauver la planète du diabolique Dr. Robotnik, bien déterminé à régner sur le monde entier.</p>
                          </div>
@@ -229,8 +208,6 @@ Will Smith se dédouble sur l'affiche française de GEMINI MAN, le nouveau film 
                             <div class="icon">
                                 <img src="img/testmonial/suit.png" alt="">
                             </div>
-                            <h3>Sonic</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut</p>
                             <h3>Le Parrain</h3>
                             <p>
 En 1945, à New York, les Corleone sont une des cinq familles de la mafia. Don Vito Corleone, "parrain" de cette famille, marie sa fille à un bookmaker. Sollozzo, " parrain " de la famille Tattaglia, propose à Don Vito une association.</p>
