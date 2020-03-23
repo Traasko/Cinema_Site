@@ -4,11 +4,10 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-<<<<<<< HEAD
+
     <title>TRASGOII</title>
-=======
     <title>Site cinéma</title>
->>>>>>> f93cc007458be310644a6715ce12960b71b2ae8f
+
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -135,20 +134,19 @@
                         <div class="large_img_1">
                             <img src="img/about/about_lft.png" alt="">
                         </div>
-                        <div class="small_img_1">
-                            <img src="img/about/about_right.png" alt="">
-                        </div>
+
                     </div>
                 </div>
-                <div class="col-xl-6 col-lg-6 col-md-6">
+                <div class="col-xl-6 col-lg-8 col-md-9">
                     <div class="about_info">
                         <div class="section_title mb-20px">
-                            <h3>About Us</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing eliteiusmod tempor incididunt ut labore et dolore magna aliqua. Qpsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Quis ipsum suspendisse ultr.</p>
+                            <h3>À l'affiche</h3>
+                            <p>Qui vous sauvera de vous-même ?
+Will Smith se dédouble sur l'affiche française de GEMINI MAN, le nouveau film d'Ang Lee, où il incarne un tueur professionnel pris pour cible par un mystérieux jeune agent qui s'avère être... lui-même </p>
                         </div>
                         <p class="opening_hour">
-                            Opening Hour
-                            <span>10:00 am - 10:00 pm</span>
+                            Séances
+                            <span>10:00 h - 15:00 h</span>
                         </p>
                         <a href="about.html" class="boxed-btn3">About Us</a>
                     </div>
@@ -163,8 +161,9 @@
             <div class="row justify-content-center ">
                 <div class="col-lg-6 col-md-10">
                     <div class="section_title text-center mb-55">
-                        <h3>Our Services</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
+                        <h3>Films proposés</h3>
+                        <p>Réservez votre séance dès maintenant !
+                        <br/> à bienôt dans nos salles !</p>
                     </div>
                 </div>
             </div>
@@ -172,42 +171,43 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single_service">
                          <div class="service_thumb">
-                             <img src="img/service/1.png" alt="">
+                             <img src="img/service/joker.jpg" alt="">
                          </div>
                          <div class="service_content text-center">
                             <div class="icon">
-                                <i class="flaticon-shave"></i>
+                                <img src="img/testmonial/joker.png" alt="">
                             </div>
-                            <h3>Smooth Shave</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut</p>
+                            <h3>Joker</h3>
+                            <p>Le film, qui relate une histoire originale inédite sur grand écran, se focalise sur la figure emblématique de l'ennemi juré de Batman. Il brosse le portrait d'Arthur Fleck, un homme sans concession méprisé par la société.</p>
                          </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="single_service">
                          <div class="service_thumb">
-                             <img src="img/service/2.png" alt="">
+                             <img src="img/service/sonic.jpg" alt="">
                          </div>
                          <div class="service_content text-center">
                             <div class="icon">
-                                <i class="flaticon-barber"></i>
+                                <img src="img/testmonial/sonic.png" alt="">
                             </div>
-                            <h3>Beard Triming</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut</p>
+                            <h3>Sonic, le film</h3>
+                            <p>L'histoire du hérisson bleu le plus rapide du monde qui arrive sur Terre, sa nouvelle maison. Sonic et son nouveau meilleur ami Tom font équipe pour sauver la planète du diabolique Dr. Robotnik, bien déterminé à régner sur le monde entier.</p>
                          </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="single_service">
                          <div class="service_thumb">
-                             <img src="img/service/3.png" alt="">
+                             <img src="img/service/parrain.jpg" alt="">
                          </div>
                          <div class="service_content text-center">
                             <div class="icon">
-                                <i class="flaticon-null"></i>
+                                <img src="img/testmonial/suit.png" alt="">
                             </div>
-                            <h3>Haircut Styles</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut</p>
+                            <h3>Le Parrain</h3>
+                            <p>
+En 1945, à New York, les Corleone sont une des cinq familles de la mafia. Don Vito Corleone, "parrain" de cette famille, marie sa fille à un bookmaker. Sollozzo, " parrain " de la famille Tattaglia, propose à Don Vito une association.</p>
                          </div>
                     </div>
                 </div>
