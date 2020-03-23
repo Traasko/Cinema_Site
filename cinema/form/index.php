@@ -8,7 +8,6 @@
     <title>TRASGOII</title>
 =======
     <title>Site cinéma</title>
->>>>>>> f93cc007458be310644a6715ce12960b71b2ae8f
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 

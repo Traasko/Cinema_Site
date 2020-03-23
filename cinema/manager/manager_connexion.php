@@ -24,15 +24,15 @@ Class Manager{
     }
 
     public function inscription($ins){
-        $bdd = new PDO('mysql:host=localhost;dbname=restauration;charset=utf8','root','');
+        $bdd = new PDO('mysql:host=localhost;dbname=cinema_site;charset=utf8','root','');
         $req = $bdd->prepare('INSERT INTO ins_rest(nom, prenom, mail, mdp) VALUES(:nom, :prenom, :mail, :mdp)');
         $req->execute(array('nom'=>$ins->getNom(), 'prenom'=>$ins->getPrenom(), 'mail'=>$ins->getMail(), 'mdp'=>$ins->getMdp()));
     }
 
     public function reservation($reserv){
-        $bdd = new PDO ('mysql:host=localhost;dbname=restauration;charset=utf8','root','');
-        $req = $bdd->prepare('INSERT INTO reservation(nom, prenom, phone, date, heur) VALUES(:nom, :prenom, :phone, :date, :heur)');
-        $req->execute(array('nom'=>$reserv->getNom(), 'prenom'=>$reserv->getPrenom(), 'phone'=>$reserv->getPhone(), 'date'=>$reserv->getDate(), 'heur'=>$reserv->getHeur()));
+        $bdd = new PDO ('mysql:host=localhost;dbname=cinema_site;charset=utf8','root','');
+        $req = $bdd->prepare('INSERT INTO reservation(nom, phone, date, heur, film) VALUES(:nom, :film, :phone, :date, :heur)');
+        $req->execute(array('nom'=>$reserv->getNom(), 'film'=>$reserv->getFilm(), 'phone'=>$reserv->getPhone(), 'date'=>$reserv->getDate(), 'heur'=>$reserv->getHeur()));
     }
 }
 ?>
