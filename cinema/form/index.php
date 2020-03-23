@@ -86,7 +86,6 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6 col-md-8">
-                          <img src="img/banner/banner.png" alt="">
                             <div class="slider_text">
                                 <h3>Trasgoii : Films, séries TV et bien plus en illimité</h3>
                                 <p>Retrouvez les dernières sorties de films. Découvrez de nouveaux films et séries TV chaque semaine, il y en a pour tous les goûts !</p>
@@ -100,7 +99,6 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6 col-md-8">
-                          <img src="img/banner/banner2.png" alt="">
                             <div class="slider_text">
                                 <h3>Trasgoii : Films, séries TV et bien plus en illimité</h3>
                                 <p>Retrouvez les dernières sorties de films. Découvrez de nouveaux films et séries TV chaque semaine, il y en a pour tous les goûts !</p>
@@ -114,7 +112,6 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6 col-md-8">
-                          <img src="img/banner/banner3.png" alt="">
                             <div class="slider_text">
                                 <h3>Trasgoii : Films, séries TV et bien plus en illimité</h3>
                                 <p>Retrouvez les dernières sorties de films. Découvrez de nouveaux films et séries TV chaque semaine, il y en a pour tous les goûts !</p>
