@@ -3,15 +3,13 @@
 class Reservation{
 
   private $nom;
-  private $mail;
   private $phone;
   private $date;
   private $heur;
   private $film;
 
-  public function __construct($nom, $mail, $phone, $date, $heur, $film){
+  public function __construct($nom, $phone, $date, $heur, $film){
       $this->setNom($nom);
-      $this->setMail($mail);
       $this->setPhone($phone);
       $this->setDate($date);
       $this->setHeur($heur);
@@ -19,7 +17,6 @@ class Reservation{
     }
 
     public function getNom(){ return $this->nom; }
-    public function getMail(){ return $this->mail; }
     public function getPhone(){ return $this->phone; }
     public function getDate(){ return $this->date; }
     public function getHeur(){ return $this->heur; }
@@ -27,9 +24,6 @@ class Reservation{
 
     public function setNom($nom){
         $this->nom = $nom;
-    }
-    public function setMail($mail){
-        $this->mail = $mail;
     }
     public function setPhone($phone){
         $this->phone = $phone;

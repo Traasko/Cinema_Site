@@ -7,7 +7,10 @@
 
     <title>TRASGOII</title>
     <title>Site cinéma</title>
+<<<<<<< HEAD
 
+=======
+>>>>>>> 827363ffd12248e01420ec43158f3cee244b6462
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -113,7 +116,7 @@
                     <div class="row">
                         <div class="col-lg-6 col-md-8">
                             <div class="slider_text">
-                                <h3>Trasgoii : Films, séries TV et bien plus en illimitéh3>
+                                <h3>Trasgoii : Films, séries TV et bien plus en illimité>
                                 <p>Retrouvez les dernières sorties de films. Découvrez de nouveaux films et séries TV chaque semaine, il y en a pour tous les goûts !</p>
                                 <a href="#test-form" class="boxed-btn3">Appointment</a>
                             </div>
@@ -211,6 +214,91 @@ En 1945, à New York, les Corleone sont une des cinq familles de la mafia. Don V
                          </div>
                     </div>
                 </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="single_service">
+                         <div class="service_thumb">
+                             <img src="img/service/scarface.jpg" alt="">
+                         </div>
+                         <div class="service_content text-center">
+                            <div class="icon">
+                                <img src="img/testmonial/mafia.png" alt="">
+                            </div>
+                            <h3>Scarface</h3>
+                            <p>En 1980, Tony "Scarface" Montana bénéficie d'une amnistie du gouvernement cubain pour retourner en Floride. Ambitieux et sans scrupules, il élabore un plan pour éliminer un caïd de la pègre et prendre la place qu'il occupait sur le marché de la drogue.</p><br/>
+                         </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="single_service">
+                         <div class="service_thumb">
+                             <img src="img/service/pulp.jpg" alt="">
+                         </div>
+                         <div class="service_content text-center">
+                            <div class="icon">
+                                <img src="img/testmonial/drug.png" alt="">
+                            </div>
+                            <h3>Pulp Fiction</h3>
+                            <p>L'odyssée sanglante et burlesque de petits malfrats dans la jungle de Hollywood à travers trois histoires qui s'entremêlent. Les histoires de Vincent, Jules et Butch, narrées sans chronologie cohérente, sont peuplées de personnages tous aussi déjantés les uns que les autres.</p>
+                         </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="single_service">
+                         <div class="service_thumb">
+                             <img src="img/service/inter.jpg" alt="">
+                         </div>
+                         <div class="service_content text-center">
+                            <div class="icon">
+                                <img src="img/testmonial/star.png" alt="">
+                            </div>
+                            <h3>Interstellar</h3>
+                            <p>Le film raconte les aventures d’un groupe d’explorateurs qui utilisent une faille récemment découverte dans l’espace-temps afin de repousser les limites humaines et partir à la conquête des distances astronomiques dans un voyage interstellaire.<br/><br/></p>
+                         </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="single_service">
+                         <div class="service_thumb">
+                             <img src="img/service/loup.jpg" alt="">
+                         </div>
+                         <div class="service_content text-center">
+                            <div class="icon">
+                                <img src="img/testmonial/money.png" alt="">
+                            </div>
+                            <h3>Le Loup de Wall Street</h3>
+                            <p>L’argent. Le pouvoir. Les femmes. La drogue. Les tentations étaient là, à portée de main, et les autorités n’avaient aucune prise. Aux yeux de Jordan et de sa meute, la modestie était devenue complètement inutile. Trop n’était jamais assez…</p>
+                         </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="single_service">
+                         <div class="service_thumb">
+                             <img src="img/service/taken.jpg" alt="">
+                         </div>
+                         <div class="service_content text-center">
+                            <div class="icon">
+                                <img src="img/testmonial/pistol.png" alt="">
+                            </div>
+                            <h3>Taken</h3>
+                            <p>Que peut-on imaginer de pire pour un père que d'assister impuissant à l'enlèvement de sa fille via un téléphone portable ? C'est le cauchemar vécu par Bryan, ancien agent des services secrets américains, qui n'a que quelques heures pour retrouver Kim.</p>
+                         </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="single_service">
+                         <div class="service_thumb">
+                             <img src="img/service/127.jpg" alt="">
+                         </div>
+                         <div class="service_content text-center">
+                            <div class="icon">
+                                <img src="img/testmonial/fire.png" alt="">
+                            </div>
+                            <h3>127 heures</h3>
+                            <p>Le 26 avril 2003, Aron Ralston, jeune homme de vingt-sept ans, se met en route pour une randonnée dans les gorges de l’Utah.
+Il est seul et n’a prévenu personne de son excursion. Alpiniste expérimenté, il collectionne les plus beaux sommets de la région.</p>
+                         </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -221,8 +309,8 @@ En 1945, à New York, les Corleone sont une des cinq familles de la mafia. Don V
             <div class="row">
                 <div class="col-xl-6 col-md-6">
                     <div class="section_title mb-55">
-                        <h3>Our Pricing</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
+                        <h3>Tarifs</h3>
+                        <p>Vous trouverez ci-dessous les différents prix.</p>
                     </div>
                 </div>
             </div>
@@ -233,34 +321,34 @@ En 1945, à New York, les Corleone sont une des cinq familles de la mafia. Don V
                         <div class="prising_active d-flex justify-content-between">
                             <div class="single_prising">
                                 <div class="prise_title">
-                                    <h4>Hair Styling</h4>
+                                    <h4>Adultes</h4>
                                 </div>
                                 <div class="single_service">
                                     <div class="service_inner">
                                         <div class="thumb">
-                                            <img src="img/prising/1.png" alt="">
+                                            <img src="img/prising/ado.png" alt="">
                                         </div>
                                     </div>
                                     <div class="hair_style_info">
                                         <div class="prise d-flex justify-content-between">
-                                            <span>Hair Cut</span>
-                                            <span>$8</span>
+                                            <span>18 - 25 ans</span>
+                                            <span>$15</span>
                                         </div>
-                                        <p>Lorem ipsum dolor sitamet, consectetur </p>
+                                        <p>Prix pour un adulte, entre 18 et 25 ans </p>
                                     </div>
                                 </div>
                                 <div class="single_service">
                                     <div class="service_inner">
                                         <div class="thumb">
-                                            <img src="img/prising/1.png" alt="">
+                                            <img src="img/prising/teenager.png" alt="">
                                         </div>
                                     </div>
                                     <div class="hair_style_info">
                                         <div class="prise d-flex justify-content-between">
-                                            <span>Hair Style</span>
-                                            <span>$8</span>
+                                            <span>25 - 35 ans</span>
+                                            <span>$10</span>
                                         </div>
-                                        <p>Lorem ipsum dolor sitamet, consectetur </p>
+                                        <p>Prix pour un adulte, entre 25 et 35 ans </p>
                                     </div>
                                 </div>
                                 <div class="single_service">
@@ -711,7 +799,7 @@ En 1945, à New York, les Corleone sont une des cinq familles de la mafia. Don V
                         <div class="footer_widget">
                             <div class="footer_logo">
                                 <a href="#">
-                                    <img src="img/logo.png" alt="">
+                                    <img src="img/logo.jpg" alt="">
                                 </a>
                             </div>
                             <p class="address_text">Nous sommes un cinéma <br> qui a ouvert ses portes en Mars 2020 <br>
