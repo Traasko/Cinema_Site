@@ -148,7 +148,7 @@ Will Smith se dédouble sur l'affiche française de GEMINI MAN, le nouveau film 
                             Séances
                             <span>10:00 h - 15:00 h</span>
                         </p>
-                        <a href="about.html" class="boxed-btn3">About Us</a>
+                        <a href="about.html" class="boxed-btn3">En savoir plus </a>
                     </div>
                 </div>
             </div>
@@ -329,7 +329,7 @@ Il est seul et n’a prévenu personne de son excursion. Alpiniste expérimenté
                                     <div class="hair_style_info">
                                         <div class="prise d-flex justify-content-between">
                                             <span>18 - 25 ans</span>
-                                            <span>$15</span>
+                                            <span>$10</span>
                                         </div>
                                         <p>Prix pour un adulte, entre 18 et 25 ans </p>
                                     </div>
@@ -343,7 +343,7 @@ Il est seul et n’a prévenu personne de son excursion. Alpiniste expérimenté
                                     <div class="hair_style_info">
                                         <div class="prise d-flex justify-content-between">
                                             <span>25 - 35 ans</span>
-                                            <span>$10</span>
+                                            <span>$13</span>
                                         </div>
                                         <p>Prix pour un adulte, entre 25 et 35 ans </p>
                                     </div>
@@ -351,62 +351,63 @@ Il est seul et n’a prévenu personne de son excursion. Alpiniste expérimenté
                                 <div class="single_service">
                                     <div class="service_inner">
                                         <div class="thumb">
-                                            <img src="img/prising/1.png" alt="">
+                                            <img src="img/prising/old.png" alt="">
                                         </div>
                                     </div>
                                     <div class="hair_style_info">
                                         <div class="prise d-flex justify-content-between">
-                                            <span>Shaving</span>
-                                            <span>$8</span>
+                                            <span>+35 ans</span>
+                                            <span>$15</span>
                                         </div>
-                                        <p>Lorem ipsum dolor sitamet, consectetur </p>
+                                        <p>Prix pour un adulte, plus de 35 ans </p>
                                     </div>
                                 </div>
                             </div>
                             <div class="single_prising">
                                 <div class="prise_title">
-                                    <h4>Hair Styling</h4>
+                                    <h4>Tarifs</h4>
                                 </div>
                                 <div class="single_service">
                                     <div class="service_inner">
                                         <div class="thumb">
-                                            <img src="img/prising/1.png" alt="">
+                                            <img src="img/prising/student.png" alt="">
                                         </div>
                                     </div>
                                     <div class="hair_style_info">
                                         <div class="prise d-flex justify-content-between">
-                                            <span>Hair Cut</span>
-                                            <span>$8</span>
+                                            <span>Etudiant</span>
+                                            <span>$9</span>
                                         </div>
-                                        <p>Lorem ipsum dolor sitamet, consectetur </p>
-                                    </div>
-                                </div>
-                                <div class="single_service">
-                                    <div class="service_inner">
-                                        <div class="thumb">
-                                            <img src="img/prising/1.png" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="hair_style_info">
-                                        <div class="prise d-flex justify-content-between">
-                                            <span>Hair Style</span>
-                                            <span>$8</span>
-                                        </div>
-                                        <p>Lorem ipsum dolor sitamet, consectetur </p>
+                                        <p>
+Sur présentation d'une carte étudiante </p>
                                     </div>
                                 </div>
                                 <div class="single_service">
                                     <div class="service_inner">
                                         <div class="thumb">
-                                            <img src="img/prising/1.png" alt="">
+                                            <img src="img/prising/cine.png" alt="">
                                         </div>
                                     </div>
                                     <div class="hair_style_info">
                                         <div class="prise d-flex justify-content-between">
-                                            <span>Shaving</span>
+                                            <span>Normal</span>
+                                            <span>$15</span>
+                                        </div>
+                                        <p>Prix pour un tarif normal </p>
+                                    </div>
+                                </div>
+                                <div class="single_service">
+                                    <div class="service_inner">
+                                        <div class="thumb">
+                                            <img src="img/prising/tgv.png" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="hair_style_info">
+                                        <div class="prise d-flex justify-content-between">
+                                            <span>Imagin'R</span>
                                             <span>$8</span>
                                         </div>
-                                        <p>Lorem ipsum dolor sitamet, consectetur </p>
+                                        <p>Prix avec réduction forfait Imagin'R </p>
                                     </div>
                                 </div>
                             </div>
@@ -414,195 +415,100 @@ Il est seul et n’a prévenu personne de son excursion. Alpiniste expérimenté
                         <div class="prising_active d-flex justify-content-between">
                             <div class="single_prising">
                                 <div class="prise_title">
-                                    <h4>Hair Styling</h4>
+                                    <h4>Suppléments</h4>
                                 </div>
                                 <div class="single_service">
                                     <div class="service_inner">
                                         <div class="thumb">
-                                            <img src="img/prising/1.png" alt="">
+                                            <img src="img/prising/3d.png" alt="">
                                         </div>
                                     </div>
                                     <div class="hair_style_info">
                                         <div class="prise d-flex justify-content-between">
-                                            <span>Hair Cut</span>
-                                            <span>$8</span>
+                                            <span>Séance 3D</span>
+                                            <span>$4</span>
                                         </div>
-                                        <p>Lorem ipsum dolor sitamet, consectetur </p>
-                                    </div>
-                                </div>
-                                <div class="single_service">
-                                    <div class="service_inner">
-                                        <div class="thumb">
-                                            <img src="img/prising/1.png" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="hair_style_info">
-                                        <div class="prise d-flex justify-content-between">
-                                            <span>Hair Style</span>
-                                            <span>$8</span>
-                                        </div>
-                                        <p>Lorem ipsum dolor sitamet, consectetur </p>
+                                        <p>Supplément séance 3D </p>
                                     </div>
                                 </div>
                                 <div class="single_service">
                                     <div class="service_inner">
                                         <div class="thumb">
-                                            <img src="img/prising/1.png" alt="">
+                                            <img src="img/prising/man.png" alt="">
                                         </div>
                                     </div>
                                     <div class="hair_style_info">
                                         <div class="prise d-flex justify-content-between">
-                                            <span>Shaving</span>
-                                            <span>$8</span>
+                                            <span>Lunettes 3D</span>
+                                            <span>$2</span>
                                         </div>
-                                        <p>Lorem ipsum dolor sitamet, consectetur </p>
+                                        <p>Gardez vos lunettes 3D Real D </p>
+                                    </div>
+                                </div>
+                                <div class="single_service">
+                                    <div class="service_inner">
+                                        <div class="thumb">
+                                            <img src="img/prising/4d-film.png" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="hair_style_info">
+                                        <div class="prise d-flex justify-content-between">
+                                            <span>Supplément 4DX</span>
+                                            <span>$6</span>
+                                        </div>
+                                        <p>Supplément séances 4DX </p>
                                     </div>
                                 </div>
                             </div>
                             <div class="single_prising">
                                 <div class="prise_title">
-                                    <h4>Hair Styling</h4>
+                                    <h4>Abonnements</h4>
                                 </div>
                                 <div class="single_service">
                                     <div class="service_inner">
                                         <div class="thumb">
-                                            <img src="img/prising/1.png" alt="">
+                                            <img src="img/prising/rrr.png" alt="">
                                         </div>
                                     </div>
                                     <div class="hair_style_info">
                                         <div class="prise d-flex justify-content-between">
-                                            <span>Hair Cut</span>
-                                            <span>$8</span>
+                                            <span>CINEPASS -26ans</span>
+                                            <span>$16</span>
                                         </div>
-                                        <p>Lorem ipsum dolor sitamet, consectetur </p>
-                                    </div>
-                                </div>
-                                <div class="single_service">
-                                    <div class="service_inner">
-                                        <div class="thumb">
-                                            <img src="img/prising/1.png" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="hair_style_info">
-                                        <div class="prise d-flex justify-content-between">
-                                            <span>Hair Style</span>
-                                            <span>$8</span>
-                                        </div>
-                                        <p>Lorem ipsum dolor sitamet, consectetur </p>
+                                        <p>Abonnement CINEPASS -26ans </p>
                                     </div>
                                 </div>
                                 <div class="single_service">
                                     <div class="service_inner">
                                         <div class="thumb">
-                                            <img src="img/prising/1.png" alt="">
+                                            <img src="img/prising/film.png" alt="">
                                         </div>
                                     </div>
                                     <div class="hair_style_info">
                                         <div class="prise d-flex justify-content-between">
-                                            <span>Shaving</span>
-                                            <span>$8</span>
+                                            <span>CINEPASS</span>
+                                            <span>$19</span>
                                         </div>
-                                        <p>Lorem ipsum dolor sitamet, consectetur </p>
+                                        <p>Abonnement CINEPASS </p>
+                                    </div>
+                                </div>
+                                <div class="single_service">
+                                    <div class="service_inner">
+                                        <div class="thumb">
+                                            <img src="img/prising/cinema.png" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="hair_style_info">
+                                        <div class="prise d-flex justify-content-between">
+                                            <span>CINEPASS DUO</span>
+                                            <span>$33</span>
+                                        </div>
+                                        <p>Abonnement CINEPASS DUO </p>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="prising_active d-flex justify-content-between">
-                            <div class="single_prising">
-                                <div class="prise_title">
-                                    <h4>Hair Styling</h4>
-                                </div>
-                                <div class="single_service">
-                                    <div class="service_inner">
-                                        <div class="thumb">
-                                            <img src="img/prising/1.png" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="hair_style_info">
-                                        <div class="prise d-flex justify-content-between">
-                                            <span>Hair Cut</span>
-                                            <span>$8</span>
-                                        </div>
-                                        <p>Lorem ipsum dolor sitamet, consectetur </p>
-                                    </div>
-                                </div>
-                                <div class="single_service">
-                                    <div class="service_inner">
-                                        <div class="thumb">
-                                            <img src="img/prising/1.png" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="hair_style_info">
-                                        <div class="prise d-flex justify-content-between">
-                                            <span>Hair Style</span>
-                                            <span>$8</span>
-                                        </div>
-                                        <p>Lorem ipsum dolor sitamet, consectetur </p>
-                                    </div>
-                                </div>
-                                <div class="single_service">
-                                    <div class="service_inner">
-                                        <div class="thumb">
-                                            <img src="img/prising/1.png" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="hair_style_info">
-                                        <div class="prise d-flex justify-content-between">
-                                            <span>Shaving</span>
-                                            <span>$8</span>
-                                        </div>
-                                        <p>Lorem ipsum dolor sitamet, consectetur </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="single_prising">
-                                <div class="prise_title">
-                                    <h4>Hair Styling</h4>
-                                </div>
-                                <div class="single_service">
-                                    <div class="service_inner">
-                                        <div class="thumb">
-                                            <img src="img/prising/1.png" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="hair_style_info">
-                                        <div class="prise d-flex justify-content-between">
-                                            <span>Hair Cut</span>
-                                            <span>$8</span>
-                                        </div>
-                                        <p>Lorem ipsum dolor sitamet, consectetur </p>
-                                    </div>
-                                </div>
-                                <div class="single_service">
-                                    <div class="service_inner">
-                                        <div class="thumb">
-                                            <img src="img/prising/1.png" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="hair_style_info">
-                                        <div class="prise d-flex justify-content-between">
-                                            <span>Hair Style</span>
-                                            <span>$8</span>
-                                        </div>
-                                        <p>Lorem ipsum dolor sitamet, consectetur </p>
-                                    </div>
-                                </div>
-                                <div class="single_service">
-                                    <div class="service_inner">
-                                        <div class="thumb">
-                                            <img src="img/prising/1.png" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="hair_style_info">
-                                        <div class="prise d-flex justify-content-between">
-                                            <span>Shaving</span>
-                                            <span>$8</span>
-                                        </div>
-                                        <p>Lorem ipsum dolor sitamet, consectetur </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+
                     </div>
                 </div>
             </div>
@@ -753,7 +659,7 @@ Encore un véritable chef-d’œuvre qui marque à jamais quiconque regarde ce f
                             <p>Pour toute informations, envoyez un message au support.  <br>
                                 Nous vous répondrons dans les prochaines 24 heures. </p>
                             <div class="form_btn">
-                                <button class="boxed-btn3" type="submit">Send message</button>
+                                <button class="boxed-btn3" type="submit"> Envoyer</button>
                             </div>
                         </form>
                     </div>
@@ -761,23 +667,23 @@ Encore un véritable chef-d’œuvre qui marque à jamais quiconque regarde ce f
                 <div class="col-lg-4 offset-lg-1">
                     <div class="appointMent_info">
                         <div class="single_appontment">
-                            <h4>Visit our studio at</h4>
-                            <p>221B Baker Street, P. O Box 3 Park Road,
-                                USA - 215852</p>
+                            <h4>Visitez nos locaux</h4>
+                            <p>Avenue des Champs-Élysées, Paris -
+                                France </p>
                         </div>
                         <div class="single_appontment">
-                            <h4>Message us</h4>
-                            <p>Support@colorlib.net <br>
-                                (+68) 120034509</p>
+                            <h4>Message</h4>
+                            <p>Support@trasgoii.net <br>
+                                (+33) 761493477</p>
                         </div>
                         <div class="single_appontment">
-                            <h4>Working Hours</h4>
+                            <h4>Horaires d'ouvertures</h4>
                             <p class="d-flex justify-content-between">
-                                <span>Monday - Friday</span>
+                                <span>Lundi - Jeudi</span>
                                 <span>:  09.00 - 23.00</span>
                             </p>
                             <p class="d-flex justify-content-between">
-                                <span>Sunday</span>
+                                <span>Samedi</span>
                                 <span>:  09.00 - 16.00s</span>
                             </p>
                         </div>
