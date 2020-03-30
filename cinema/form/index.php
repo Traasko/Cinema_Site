@@ -7,10 +7,6 @@
 
     <title>TRASGOII</title>
     <title>Site cinéma</title>
-<<<<<<< HEAD
-
-=======
->>>>>>> 827363ffd12248e01420ec43158f3cee244b6462
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -670,7 +666,7 @@ Il est seul et n’a prévenu personne de son excursion. Alpiniste expérimenté
                 <div class="col-xl-12">
                     <div class="section_title mb-40 text-center">
                         <h3>
-                            Testimonial
+                            Commentaire
                         </h3>
                     </div>
                 </div>
