@@ -88,7 +88,7 @@
                             <div class="slider_text">
                                 <h3>Trasgoii : Films, séries TV et bien plus en illimité</h3>
                                 <p>Retrouvez les dernières sorties de films. Découvrez de nouveaux films et séries TV chaque semaine, il y en a pour tous les goûts !</p>
-                                <a href="#test-form" class="boxed-btn3">Appointment</a>
+                                <a href="#test-form" class="boxed-btn3">Réservation</a>
                             </div>
                         </div>
                     </div>
@@ -101,7 +101,7 @@
                             <div class="slider_text">
                                 <h3>Trasgoii : Films, séries TV et bien plus en illimité</h3>
                                 <p>Retrouvez les dernières sorties de films. Découvrez de nouveaux films et séries TV chaque semaine, il y en a pour tous les goûts !</p>
-                                <a href="#test-form" class="boxed-btn3">Appointment</a>
+                                <a href="#test-form" class="boxed-btn3">Réservatioon</a>
                             </div>
                         </div>
                     </div>
@@ -112,9 +112,9 @@
                     <div class="row">
                         <div class="col-lg-6 col-md-8">
                             <div class="slider_text">
-                                <h3>Trasgoii : Films, séries TV et bien plus en illimité>
+                                <h3>Trasgoii : Films, séries TV et bien plus en illimité</h3>
                                 <p>Retrouvez les dernières sorties de films. Découvrez de nouveaux films et séries TV chaque semaine, il y en a pour tous les goûts !</p>
-                                <a href="#test-form" class="boxed-btn3">Appointment</a>
+                                <a href="#test-form" class="boxed-btn3">Réservation</a>
                             </div>
                         </div>
                     </div>
