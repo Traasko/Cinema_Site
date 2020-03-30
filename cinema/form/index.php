@@ -131,7 +131,7 @@
                 <div class="col-xl-6 col-lg-6 col-md-6">
                     <div class="about_thumbs">
                         <div class="large_img_1">
-                            <img src="img/about/about_lft.png" alt="">
+                            <img src="img/about/about_lft.jpg" alt="">
                         </div>
 
                     </div>
@@ -615,8 +615,8 @@ Il est seul et n’a prévenu personne de son excursion. Alpiniste expérimenté
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-md-10">
                     <div class="section_title text-center mb-55">
-                        <h3>Barber</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
+                        <h3>Recommandations</h3>
+                        <p>Recommandations de films : un bon film à voir selon vos envies</p>
                     </div>
                 </div>
             </div>
@@ -624,33 +624,33 @@ Il est seul et n’a prévenu personne de son excursion. Alpiniste expérimenté
                 <div class="col-lg-4 col-md-6">
                     <div class="single_team_member">
                         <div class="team_thumb">
-                            <img src="img/team/1.png" alt="">
+                            <img src="img/team/1.jpg" alt="">
                         </div>
                         <div class="member_info text-center">
-                            <h3>Jhon Smith</h3>
-                            <p>Junior Barber</p>
+                            <h3>Matrix</h3>
+                            <p>Action, Science fiction</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="single_team_member">
                         <div class="team_thumb">
-                            <img src="img/team/2.png" alt="">
+                            <img src="img/team/2.jpg" alt="">
                         </div>
                         <div class="member_info text-center">
-                            <h3>Jems Smith</h3>
-                            <p>Junior Barber</p>
+                            <h3>La ligne verte</h3>
+                            <p>Fantastique, Policier</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="single_team_member">
                         <div class="team_thumb">
-                            <img src="img/team/3.png" alt="">
+                            <img src="img/team/3.jpg" alt="">
                         </div>
                         <div class="member_info text-center">
-                            <h3>Thomas J Watson</h3>
-                            <p>Junior Barber</p>
+                            <h3>Les Evadés</h3>
+                            <p>Drame</p>
                         </div>
                     </div>
                 </div>
@@ -666,7 +666,7 @@ Il est seul et n’a prévenu personne de son excursion. Alpiniste expérimenté
                 <div class="col-xl-12">
                     <div class="section_title mb-40 text-center">
                         <h3>
-                            Commentaire
+                            Commentaires, avis
                         </h3>
                     </div>
                 </div>
@@ -678,12 +678,12 @@ Il est seul et n’a prévenu personne de son excursion. Alpiniste expérimenté
                             <div class="row justify-content-center">
                                 <div class="col-lg-7 col-md-10">
                                     <div class="single_testmonial text-center">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+                                        <p>Magnifique, somptueux, magistral, aucune superlatif n'est de trop pour décrire ce film. Tout est parfait!</p>
                                         <div class="testmonial_author">
                                             <div class="thumb">
                                                 <img src="img/testmonial/1.png" alt="">
                                             </div>
-                                            <h3>Watson, web developer</h3>
+                                            <h3>Watson, responsable rédaction</h3>
                                         </div>
                                     </div>
                                 </div>
@@ -693,12 +693,13 @@ Il est seul et n’a prévenu personne de son excursion. Alpiniste expérimenté
                             <div class="row justify-content-center">
                                 <div class="col-lg-7 col-md-10">
                                     <div class="single_testmonial text-center">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+                                        <p>
+Encore un véritable chef-d’œuvre qui marque à jamais quiconque regarde ce film sublime.</p>
                                         <div class="testmonial_author">
                                             <div class="thumb">
                                                 <img src="img/testmonial/1.png" alt="">
                                             </div>
-                                            <h3>Watson, web developer</h3>
+                                            <h3>Watson, responsable rédaction</h3>
                                         </div>
                                     </div>
                                 </div>
@@ -708,12 +709,12 @@ Il est seul et n’a prévenu personne de son excursion. Alpiniste expérimenté
                             <div class="row justify-content-center">
                                 <div class="col-lg-7 col-md-10">
                                     <div class="single_testmonial text-center">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+                                        <p>Dans le cinéma, il y a des claques visuels, des claques sonores mais pas que ; il y a aussi des claques émotionnelles tel que ce long-métrage.</p>
                                         <div class="testmonial_author">
                                             <div class="thumb">
                                                 <img src="img/testmonial/1.png" alt="">
                                             </div>
-                                            <h3>Watson, web developer</h3>
+                                            <h3>Watson, responsable rédaction</h3>
                                         </div>
                                     </div>
                                 </div>
@@ -731,7 +732,7 @@ Il est seul et n’a prévenu personne de son excursion. Alpiniste expérimenté
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section_title pl-68">
-                        <h3>Make an Appointment</h3>
+                        <h3>Nous contacter</h3>
                     </div>
                 </div>
             </div>
@@ -740,7 +741,7 @@ Il est seul et n’a prévenu personne de son excursion. Alpiniste expérimenté
                     <div class="appoint_ment_form pl-68">
                         <form action="#">
                             <div class="single_field">
-                                <input type="text" placeholder="Name">
+                                <input type="text" placeholder="Nom">
                             </div>
                             <div class="single_field">
                                 <input type="text" placeholder="Email">
@@ -748,8 +749,8 @@ Il est seul et n’a prévenu personne de son excursion. Alpiniste expérimenté
                             <div class="single_field m-0">
                                 <textarea id="" cols="30" rows="10" placeholder="Message"></textarea>
                             </div>
-                            <p>I’m available for commissions and collaborations, and i’m <br>
-                                excited to hear from you about new projects.</p>
+                            <p>Pour toute informations, envoyez un message au support.  <br>
+                                Nous vous répondrons dans les prochaines 24 heures. </p>
                             <div class="form_btn">
                                 <button class="boxed-btn3" type="submit">Send message</button>
                             </div>
