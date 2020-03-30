@@ -49,14 +49,15 @@
                             <div class="menu_wrap d-none d-lg-block">
                                 <div class="menu_wrap_inner d-flex align-items-center justify-content-end">
                                     <div class="main-menu">
-                                        <nav>
-                                            <ul id="navigation">
-                                                <li><a class="active" href="apropos.php">A propos</a></li>
-                                                <li><a href="services.php">Services</a></li>
-                                                <li><a href="apropos.php">A propos</a></li>
-                                                <li><a href="contact.php">Contact</a></li>
-                                              </ul>
-                                        </nav>
+                                      <nav>
+                                          <ul id="navigation">
+                                              <li><a class="active" href="index.php">Accueil</a></li>
+                                              <li><a href="services.php">Services</a></li>
+                                              <li><a href="apropos.php">A propos</a></li>
+                                              <li><a href="contact.php">Contact</a></li>
+                                                <li><a href="contact.php">S'identifier</a></li>
+                                            </ul>
+                                      </nav>
                                     </div>
                                     <div class="book_room">
                                         <div class="book_btn">
