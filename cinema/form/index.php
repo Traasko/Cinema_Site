@@ -57,6 +57,7 @@
                                                 <li><a href="services.php">Services</a></li>
                                                 <li><a href="apropos.php">A propos</a></li>
                                                 <li><a href="contact.php">Contact</a></li>
+                                                  <li><a href="contact.php">S'identifier</a></li>
                                               </ul>
                                         </nav>
                                     </div>
@@ -883,7 +884,7 @@ Encore un véritable chef-d’œuvre qui marque à jamais quiconque regarde ce f
     <form id="test-form" class="white-popup-block mfp-hide">
             <div class="popup_box ">
                     <div class="popup_inner">
-                        <h3>Make an Appointment</h3>
+                        <h3>Réserver un film</h3>
                         <form action="#">
                             <div class="row">
                                 <div class="col-xl-6 col-md-6">
