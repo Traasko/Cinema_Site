@@ -57,8 +57,13 @@
                                                 <li><a href="services.php">Services</a></li>
                                                 <li><a href="apropos.php">A propos</a></li>
                                                 <li><a href="contact.php">Contact</a></li>
+<<<<<<< HEAD
                                                 <li><a href="">S'identifier</a></li>
                                               </ul>
+=======
+                                                <li><a href="../formulaire/connexion.php">S'identifier</a></li>
+                                    </ul>
+>>>>>>> 59f158345543f6562d9a207f8e56ac16659ab74d
                                         </nav>
                                     </div>
                                     <div class="book_room">
