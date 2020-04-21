@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-    <title>TRASGOII</title>
+    <title>TEST</title>
     <title>Site cinéma</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -63,7 +63,7 @@
                                     </div>
                                     <div class="book_room">
                                         <div class="book_btn">
-
+                                            <a class="popup-with-form" href="#test-form">Reservation</a>
                                         </div>
                                     </div>
                                 </div>
