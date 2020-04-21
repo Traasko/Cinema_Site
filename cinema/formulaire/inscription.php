@@ -50,6 +50,12 @@
 						<span class="focus-input100" data-symbol="&#xf206;"></span>
 					</div>
 
+          <div class="wrap-input100 validate-input m-b-23" data-validate = "Entrez un pseudo">
+						<span class="label-input100">Âge</span>
+						<input class="input100" type="text" name="age" id="age" placeholder="Entrez votre pseudo">
+						<span class="focus-input100" data-symbol="&#xf206;"></span>
+					</div>
+
 					<div class="wrap-input100 validate-input" data-validate="Entrez un mot de passe">
 						<span class="label-input100">Mot de passe</span>
 						<input class="input100" type="password" name="mdp" id="mdp" placeholder="Entrez votre mot de passe">

@@ -1,11 +1,12 @@
 <?php
 
 require('../manager/manager.php');
-require('../model/class_inscription.php');
+require('../model/inscription_class.php');
 
-$inscription = new Inscription($_POST['nom'], $_POST['prenom'],  $_POST['mdp']);
+$inscription = new Inscription($_POST['nom'], $_POST['prenom'], $_POST['age'], $_POST['mdp']);
+
 $manager = new Manager();
-$manager -> inscription($inscription);
-
+$manager->Inscription($inscription);
 var_dump($inscription);
-?>
+
+ ?>
