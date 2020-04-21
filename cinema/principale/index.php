@@ -58,7 +58,7 @@
                                                 <li><a href="apropos.php">A propos</a></li>
                                                 <li><a href="contact.php">Contact</a></li>
                                                 <li><a href="../formulaire/connexion.php">S'identifier</a></li>
-                                              </ul>                                                                                
+                                              </ul>
                                         </nav>
                                     </div>
                                     <div class="book_room">
@@ -89,7 +89,7 @@
                             <div class="slider_text">
                                 <h3>Trasgoii : Films, séries TV et bien plus en illimité</h3>
                                 <p>Retrouvez les dernières sorties de films. Découvrez de nouveaux films et séries TV chaque semaine, il y en a pour tous les goûts !</p>
-                                <a href="#test-form" class="boxed-btn3">Réservation</a>
+
                             </div>
                         </div>
                     </div>
@@ -102,7 +102,7 @@
                             <div class="slider_text">
                                 <h3>Trasgoii : Films, séries TV et bien plus en illimité</h3>
                                 <p>Retrouvez les dernières sorties de films. Découvrez de nouveaux films et séries TV chaque semaine, il y en a pour tous les goûts !</p>
-                                <a href="#test-form" class="boxed-btn3">Réservatioon</a>
+                                
                             </div>
                         </div>
                     </div>
@@ -115,7 +115,7 @@
                             <div class="slider_text">
                                 <h3>Trasgoii : Films, séries TV et bien plus en illimité</h3>
                                 <p>Retrouvez les dernières sorties de films. Découvrez de nouveaux films et séries TV chaque semaine, il y en a pour tous les goûts !</p>
-                                <a href="#test-form" class="boxed-btn3">Réservation</a>
+
                             </div>
                         </div>
                     </div>
@@ -775,7 +775,7 @@ Encore un véritable chef-d’œuvre qui marque à jamais quiconque regarde ce f
                     <div class="col-xl-12">
                         <p class="copy_right text-center">
                             <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This site is made by Thomas and Ryan</a>
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> Tous droits réservés | Site par Thomas et Ryan</a>
   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                         </p>
                     </div>
