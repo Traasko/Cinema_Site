@@ -3,7 +3,7 @@
 Class Manager{
 
     public function connexion($connexion){
-        $bdd= new PDO('mysql:host=localhost;dbname=restauration;charset=utf8','root','');
+        $bdd= new PDO('mysql:host=localhost;dbname=cinema_site;charset=utf8','root','');
         $reponse=$bdd->prepare('SELECT * FROM ins_rest WHERE nom=:nom AND mdp=:mdp');
         $reponse->execute(array(
         'nom'=>$connexion->getMail(),

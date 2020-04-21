@@ -139,8 +139,8 @@
                             <img src="img/service/1.png" alt="">
                         </div>
                         <div class="member_info text-center">
-                            <h3>Joker</h3>
-                            <p>Junior Barber</p>
+                            <h3>Gemini Man</h3>
+                            <p>4.4/5 de moyenne</p>
                         </div>
                     </div>
                 </div>
@@ -150,19 +150,19 @@
                             <img src="img/service/2.png" alt="">
                         </div>
                         <div class="member_info text-center">
-                            <h3>Sacarface</h3>
-                            <p>Junior Barber</p>
+                            <h3>Le parrain</h3>
+                            <p>4,3/5 de moyenne</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="single_team_member">
                         <div class="team_thumb">
-                            <img src="img/team/3.png" alt="">
+                            <img src="img/team/3.jpg" alt="">
                         </div>
                         <div class="member_info text-center">
-                            <h3>Thomas J Watson</h3>
-                            <p>Junior Barber</p>
+                            <h3>Les évadés</h3>
+                            <p>4,5/5 de moyenne</p>
                         </div>
                     </div>
                 </div>
