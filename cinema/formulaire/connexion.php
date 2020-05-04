@@ -21,7 +21,7 @@
 	<div class="limiter">
 		<div class="container-login100" style="background-image: url('../designConnexion/images/bg-01.jpg');">
 			<div class="wrap-login100">
-				<form class="login100-form validate-form" id="form-connexion" method="POST" action="../traitement/connexion_traitement.php">
+				<form class="login100-form validate-form" id="form-connexion" method="POST" action="../traitement/traitement_connexion.php">
 					<span class="login100-form-logo">
 						<i class="zmdi zmdi-landscape"></i>
 					</span>

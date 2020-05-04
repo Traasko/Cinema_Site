@@ -1,6 +1,6 @@
 <?php
 
-require('../manager/manager_connexion.php');
+require('../manager/manager.php');
 require('../model/class_connexion.php');
 
 $user = new Connexion($_POST['mail'], $_POST['mdp']);
