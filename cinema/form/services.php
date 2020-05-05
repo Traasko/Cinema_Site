@@ -49,19 +49,19 @@
                             <div class="menu_wrap d-none d-lg-block">
                                 <div class="menu_wrap_inner d-flex align-items-center justify-content-end">
                                     <div class="main-menu">
-                                      <nav>
-                                          <ul id="navigation">
-                                              <li><a class="active" href="index.php">Accueil</a></li>
-                                              <li><a href="services.php">Services</a></li>
-                                              <li><a href="apropos.php">A propos</a></li>
-                                              <li><a href="contact.php">Contact</a></li>
-                                              <li><a href="connexion.php">S'identifier</a></li>
-                                            </ul>
-                                      </nav>
+                                        <nav>
+                                            <ul id="navigation">
+                                                <li><a class="active" href="index.php">Accueil</a></li>
+                                                <li><a href="services.php">Services</a></li>
+                                                <li><a href="apropos.php">A propos</a></li>
+                                                <li><a href="contact.php">Contact</a></li>
+                                                <li><a href="../formulaire/connexion.php">S'identifier</a></li>
+                                              </ul>
+                                        </nav>
                                     </div>
                                     <div class="book_room">
                                         <div class="book_btn">
-                                            <a class="popup-with-form" href="#test-form">Reservation</a>
+
                                         </div>
                                     </div>
                                 </div>
@@ -94,8 +94,8 @@
             <div class="row justify-content-center ">
                 <div class="col-lg-6 col-md-10">
                     <div class="section_title text-center mb-55">
-                        <h3>Our Services</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
+                        <h3>Nos services</h3>
+                        <p>Voici les films les plus populaires au sein de ce cinéma</p>
                     </div>
                 </div>
             </div>
@@ -109,8 +109,8 @@
                             <div class="icon">
                                 <i class="flaticon-shave"></i>
                             </div>
-                            <h3>Smooth Shave</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut</p>
+                            <h3>Gemini Man</h3>
+                            <p>Will Smith se dédouble sur l'affiche française de GEMINI MAN, le nouveau film d'Ang Lee, où il incarne un tueur professionnel pris pour cible par un mystérieux jeune agent qui s'avère être... lui-même </p>
                          </div>
                     </div>
                 </div>
@@ -123,8 +123,8 @@
                             <div class="icon">
                                 <i class="flaticon-barber"></i>
                             </div>
-                            <h3>Beard Triming</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut</p>
+                            <h3>Le Parrain</h3>
+                            <p>En 1945, à New York, les Corleone sont une des cinq familles de la mafia. Don Vito Corleone, "parrain" de cette famille, marie sa fille à un bookmaker. Sollozzo, " parrain " de la famille Tattaglia, propose à Don Vito une association.</p>
                          </div>
                     </div>
                 </div>
@@ -137,8 +137,8 @@
                             <div class="icon">
                                 <i class="flaticon-null"></i>
                             </div>
-                            <h3>Haircut Styles</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut</p>
+                            <h3>Sonic</h3>
+                            <p>L'histoire du hérisson bleu le plus rapide du monde qui arrive sur Terre, sa nouvelle maison. Sonic et son nouveau meilleur ami Tom font équipe pour sauver la planète du diabolique Dr. Robotnik, bien déterminé à régner sur le monde entier.</p>
                          </div>
                     </div>
                 </div>
@@ -152,7 +152,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section_title pl-68">
-                        <h3>Make an Appointment</h3>
+                        <h3>Nous contacter</h3>
                     </div>
                 </div>
             </div>
@@ -161,7 +161,7 @@
                     <div class="appoint_ment_form pl-68">
                         <form action="#">
                             <div class="single_field">
-                                <input type="text" placeholder="Name">
+                                <input type="text" placeholder="Nom">
                             </div>
                             <div class="single_field">
                                 <input type="text" placeholder="Email">
@@ -169,10 +169,10 @@
                             <div class="single_field m-0">
                                 <textarea id="" cols="30" rows="10" placeholder="Message"></textarea>
                             </div>
-                            <p>I’m available for commissions and collaborations, and i’m <br>
-                                excited to hear from you about new projects.</p>
+                            <p>Pour toute informations, envoyez un message au support.  <br>
+                                Nous vous répondrons dans les prochaines 24 heures. </p>
                             <div class="form_btn">
-                                <button class="boxed-btn3" type="submit">Send message</button>
+                                <button class="boxed-btn3" type="submit"> Envoyer</button>
                             </div>
                         </form>
                     </div>
@@ -180,23 +180,23 @@
                 <div class="col-lg-4 offset-lg-1">
                     <div class="appointMent_info">
                         <div class="single_appontment">
-                            <h4>Visit our studio at</h4>
-                            <p>221B Baker Street, P. O Box 3 Park Road,
-                                USA - 215852</p>
+                            <h4>Visitez nos locaux</h4>
+                            <p>Avenue des Champs-Élysées, Paris -
+                                France </p>
                         </div>
                         <div class="single_appontment">
-                            <h4>Message us</h4>
-                            <p>Support@colorlib.net <br>
-                                (+68) 120034509</p>
+                            <h4>Message</h4>
+                            <p>Support@trasgoii.net <br>
+                                (+33) 761493477</p>
                         </div>
                         <div class="single_appontment">
-                            <h4>Working Hours</h4>
+                            <h4>Horaires d'ouvertures</h4>
                             <p class="d-flex justify-content-between">
-                                <span>Monday - Friday</span>
+                                <span>Lundi - Jeudi</span>
                                 <span>:  09.00 - 23.00</span>
                             </p>
                             <p class="d-flex justify-content-between">
-                                <span>Sunday</span>
+                                <span>Samedi</span>
                                 <span>:  09.00 - 16.00s</span>
                             </p>
                         </div>
@@ -205,7 +205,6 @@
             </div>
         </div>
     </div>
-
 
     <!-- footer_start  -->
     <footer class="footer">
@@ -219,27 +218,22 @@
                                     <img src="img/logo.png" alt="">
                                 </a>
                             </div>
-                            <p class="address_text">Lorem ipsum dolor sit amet, consectetur <br> adipiscing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua. <br> Quis ipsum suspendisse.
+                            <p class="address_text">Nous sommes un cinéma <br> qui a ouvert ses portes en Mars 2020 <br>
                             </p>
                             <div class="socail_links">
                                 <ul>
                                     <li>
-                                        <a href="#">
+                                        <a href="https://fr-fr.facebook.com/">
                                             <i class="ti-facebook"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
+                                        <a href="https://twitter.com/login?lang=fr">
                                             <i class="ti-twitter-alt"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
-                                            <i class="fa fa-dribbble"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
+                                        <a href="https://www.instagram.com/?hl=fr">
                                             <i class="fa fa-instagram"></i>
                                         </a>
                                     </li>
@@ -251,12 +245,12 @@
                     <div class="col-xl-3 col-md-6 col-lg-3">
                         <div class="footer_widget">
                             <h3 class="footer_title">
-                                Information
+                                Informations
                             </h3>
                             <ul class="links">
-                                <li><a href="#">About</a></li>
-                                <li><a href="#">Services</a></li>
-                                <li><a href="#">Testimonial</a></li>
+                                <li><a href="apropos.php">A propos</a></li>
+                                <li><a href="services.php">Services</a></li>
+                                <li><a href="contact.php">Contact</a></li>
                             </ul>
                         </div>
                     </div>
@@ -266,21 +260,21 @@
                                 Services
                             </h3>
                             <ul class="links">
-                                <li><a href="#">Smooth Shave </a></li>
-                                <li><a href="#">Beard Triming</a></li>
-                                <li><a href="#"> Haircut Styles</a></li>
+                                <li><a href="services.php">Gemini Man </a></li>
+                                <li><a href="services.php">Le Parrain</a></li>
+                                <li><a href="services.php">Sonic</a></li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-xl-2  col-md-6 col-lg-2">
                         <div class="footer_widget">
                             <h3 class="footer_title">
-                                Follow Us
+                                Suivez nous
                             </h3>
                             <ul class="links">
-                                <li><a href="#">FaceBook</a></li>
-                                <li><a href="#">Instagram</a></li>
-                                <li><a href="#"> Twitter</a></li>
+                                <li><a href="https://fr-fr.facebook.com/">FaceBook</a></li>
+                                <li><a href="https://www.instagram.com/?hl=fr">Instagram</a></li>
+                                <li><a href="https://twitter.com/login?lang=fr"> Twitter</a></li>
                             </ul>
                         </div>
                     </div>
@@ -293,7 +287,7 @@
                     <div class="col-xl-12">
                         <p class="copy_right text-center">
                             <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> Tous droits réservés | Site par Thomas et Ryan</a>
   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                         </p>
                     </div>

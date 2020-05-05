@@ -3,10 +3,10 @@
 require('../manager/manager.php');
 require('../model/class_inscription.php');
 
-$inscription = new Inscription($_POST['nom'], $_POST['prenom'], $_POST['age'], $_POST['mdp']);
-
+$ins = new Inscription($_POST['nom'], $_POST['prenom'], $_POST['age'], $_POST['mdp']);
 $manager = new Manager();
-$manager->Inscription($inscription);
-var_dump($inscription);
+$manager->Inscription($ins);
+
+var_dump($ins);
 
  ?>

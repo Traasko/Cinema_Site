@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Page d'inscription</title>
+	<title>Inscription</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="icon" type="image/png" href="../designInscription/images/icons/favicon.ico"/>
@@ -21,7 +21,7 @@
 	<div class="limiter">
 		<div class="container-login100" style="background-image: url('../designInscription/images/bg-01.jpg');">
 			<div class="wrap-login100 p-l-55 p-r-55 p-t-65 p-b-54">
-				<form class="login100-form validate-form"  method="POST" action="../traitement/inscription_traitement.php">
+				<form class="login100-form validate-form"  method="POST" action="../traitement/traitement_inscription.php">
 					<span class="login100-form-title p-b-49">
 						S'inscrire
 					</span>
@@ -29,25 +29,25 @@
 
           <div class="wrap-input100 validate-input m-b-23" data-validate = "Entrez un nom">
 						<span class="label-input100">Nom</span>
-						<input class="input100" type="text" name="nom" id="nom" placeholder="Entrez votre nom">
+						<input class="input100" type="text" name="nom" placeholder="Entrez votre nom">
 						<span class="focus-input100" data-symbol="&#xf206;"></span>
 					</div>
 
           <div class="wrap-input100 validate-input m-b-23" data-validate = "Entrez un prénom">
 						<span class="label-input100">Prénom</span>
-						<input class="input100" type="text" name="prenom" id="prenom"  placeholder="Entrez votre prénom">
+						<input class="input100" type="text" name="prenom" placeholder="Entrez votre prénom">
 						<span class="focus-input100" data-symbol="&#xf206;"></span>
 					</div>
 
           <div class="wrap-input100 validate-input m-b-23" data-validate = "Entrez un pseudo">
 						<span class="label-input100">Âge</span>
-						<input class="input100" type="text" name="age" id="age" placeholder="Entrez votre pseudo">
+						<input class="input100" type="text" name="age" placeholder="Entrez votre pseudo">
 						<span class="focus-input100" data-symbol="&#xf206;"></span>
 					</div>
 
 					<div class="wrap-input100 validate-input" data-validate="Entrez un mot de passe">
 						<span class="label-input100">Mot de passe</span>
-						<input class="input100" type="password" name="mdp" id="mdp" placeholder="Entrez votre mot de passe">
+						<input class="input100" type="password" name="mdp" placeholder="Entrez votre mot de passe">
 						<span class="focus-input100" data-symbol="&#xf190;"></span>
 					</div>
 

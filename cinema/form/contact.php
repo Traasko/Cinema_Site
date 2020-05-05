@@ -49,19 +49,19 @@
                             <div class="menu_wrap d-none d-lg-block">
                                 <div class="menu_wrap_inner d-flex align-items-center justify-content-end">
                                     <div class="main-menu">
-                                      <nav>
-                                          <ul id="navigation">
-                                              <li><a class="active" href="index.php">Accueil</a></li>
-                                              <li><a href="services.php">Services</a></li>
-                                              <li><a href="apropos.php">A propos</a></li>
-                                              <li><a href="contact.php">Contact</a></li>
-                                              <li><a href="connexion.php">S'identifier</a></li>
-                                            </ul>
-                                      </nav>
+                                        <nav>
+                                            <ul id="navigation">
+                                                <li><a class="active" href="index.php">Accueil</a></li>
+                                                <li><a href="services.php">Services</a></li>
+                                                <li><a href="apropos.php">A propos</a></li>
+                                                <li><a href="contact.php">Contact</a></li>
+                                                <li><a href="../formulaire/connexion.php">S'identifier</a></li>
+                                              </ul>
+                                        </nav>
                                     </div>
                                     <div class="book_room">
                                         <div class="book_btn">
-                                            <a class="popup-with-form" href="#test-form">Reservation</a>
+
                                         </div>
                                     </div>
                                 </div>
@@ -177,27 +177,22 @@
                                     <img src="img/logo.png" alt="">
                                 </a>
                             </div>
-                            <p class="address_text">Lorem ipsum dolor sit amet, consectetur <br> adipiscing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua. <br> Quis ipsum suspendisse.
+                            <p class="address_text">Nous sommes un cinéma <br> qui a ouvert ses portes en Mars 2020 <br>
                             </p>
                             <div class="socail_links">
                                 <ul>
                                     <li>
-                                        <a href="#">
+                                        <a href="https://fr-fr.facebook.com/">
                                             <i class="ti-facebook"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
+                                        <a href="https://twitter.com/login?lang=fr">
                                             <i class="ti-twitter-alt"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
-                                            <i class="fa fa-dribbble"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
+                                        <a href="https://www.instagram.com/?hl=fr">
                                             <i class="fa fa-instagram"></i>
                                         </a>
                                     </li>
@@ -209,12 +204,12 @@
                     <div class="col-xl-3 col-md-6 col-lg-3">
                         <div class="footer_widget">
                             <h3 class="footer_title">
-                                Information
+                                Informations
                             </h3>
                             <ul class="links">
-                                <li><a href="#">About</a></li>
-                                <li><a href="#">Services</a></li>
-                                <li><a href="#">Testimonial</a></li>
+                                <li><a href="apropos.php">A propos</a></li>
+                                <li><a href="services.php">Services</a></li>
+                                <li><a href="contact.php">Contact</a></li>
                             </ul>
                         </div>
                     </div>
@@ -224,21 +219,21 @@
                                 Services
                             </h3>
                             <ul class="links">
-                                <li><a href="#">Smooth Shave </a></li>
-                                <li><a href="#">Beard Triming</a></li>
-                                <li><a href="#"> Haircut Styles</a></li>
+                                <li><a href="services.php">Gemini Man </a></li>
+                                <li><a href="services.php">Le Parrain</a></li>
+                                <li><a href="services.php">Sonic</a></li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-xl-2  col-md-6 col-lg-2">
                         <div class="footer_widget">
                             <h3 class="footer_title">
-                                Follow Us
+                                Suivez nous
                             </h3>
                             <ul class="links">
-                                <li><a href="#">FaceBook</a></li>
-                                <li><a href="#">Instagram</a></li>
-                                <li><a href="#"> Twitter</a></li>
+                                <li><a href="https://fr-fr.facebook.com/">FaceBook</a></li>
+                                <li><a href="https://www.instagram.com/?hl=fr">Instagram</a></li>
+                                <li><a href="https://twitter.com/login?lang=fr"> Twitter</a></li>
                             </ul>
                         </div>
                     </div>
@@ -251,7 +246,7 @@
                     <div class="col-xl-12">
                         <p class="copy_right text-center">
                             <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> Tous droits réservés | Site par Thomas et Ryan</a>
   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                         </p>
                     </div>

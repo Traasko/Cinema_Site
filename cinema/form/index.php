@@ -142,13 +142,12 @@
                         <div class="section_title mb-20px">
                             <h3>À l'affiche</h3>
                             <p>Qui vous sauvera de vous-même ?
-Will Smith se dédouble sur l'affiche française de GEMINI MAN, le nouveau film d'Ang Lee, où il incarne un tueur professionnel pris pour cible par un mystérieux jeune agent qui s'avère être... lui-même </p>
+                              Will Smith se dédouble sur l'affiche française de GEMINI MAN, le nouveau film d'Ang Lee, où il incarne un tueur professionnel pris pour cible par un mystérieux jeune agent qui s'avère être... lui-même </p>
                         </div>
                         <p class="opening_hour">
                             Séances
                             <span>10:00 h - 15:00 h</span>
                         </p>
-                        <a href="about.html" class="boxed-btn3">En savoir plus </a>
                     </div>
                 </div>
             </div>
@@ -207,7 +206,7 @@ Will Smith se dédouble sur l'affiche française de GEMINI MAN, le nouveau film 
                             </div>
                             <h3>Le Parrain</h3>
                             <p>
-En 1945, à New York, les Corleone sont une des cinq familles de la mafia. Don Vito Corleone, "parrain" de cette famille, marie sa fille à un bookmaker. Sollozzo, " parrain " de la famille Tattaglia, propose à Don Vito une association.</p>
+                              En 1945, à New York, les Corleone sont une des cinq familles de la mafia. Don Vito Corleone, "parrain" de cette famille, marie sa fille à un bookmaker. Sollozzo, " parrain " de la famille Tattaglia, propose à Don Vito une association.</p>
                          </div>
                     </div>
                 </div>
@@ -292,7 +291,7 @@ En 1945, à New York, les Corleone sont une des cinq familles de la mafia. Don V
                             </div>
                             <h3>127 heures</h3>
                             <p>Le 26 avril 2003, Aron Ralston, jeune homme de vingt-sept ans, se met en route pour une randonnée dans les gorges de l’Utah.
-Il est seul et n’a prévenu personne de son excursion. Alpiniste expérimenté, il collectionne les plus beaux sommets de la région.</p>
+                              Il est seul et n’a prévenu personne de son excursion. Alpiniste expérimenté, il collectionne les plus beaux sommets de la région.</p>
                          </div>
                     </div>
                 </div>
@@ -703,7 +702,7 @@ Encore un véritable chef-d’œuvre qui marque à jamais quiconque regarde ce f
                         <div class="footer_widget">
                             <div class="footer_logo">
                                 <a href="#">
-                                    <img src="img/logo.jpg" alt="">
+                                    <img src="img/logo.png" alt="">
                                 </a>
                             </div>
                             <p class="address_text">Nous sommes un cinéma <br> qui a ouvert ses portes en Mars 2020 <br>
@@ -736,9 +735,9 @@ Encore un véritable chef-d’œuvre qui marque à jamais quiconque regarde ce f
                                 Informations
                             </h3>
                             <ul class="links">
-                                <li><a href="#">Nous concernant</a></li>
-                                <li><a href="#">Services</a></li>
-                                <li><a href="#">Témoignages</a></li>
+                                <li><a href="apropos.php">A propos</a></li>
+                                <li><a href="services.php">Services</a></li>
+                                <li><a href="contact.php">Contact</a></li>
                             </ul>
                         </div>
                     </div>
@@ -748,9 +747,9 @@ Encore un véritable chef-d’œuvre qui marque à jamais quiconque regarde ce f
                                 Services
                             </h3>
                             <ul class="links">
-                                <li><a href="#">Smooth Shave </a></li>
-                                <li><a href="#">Beard Triming</a></li>
-                                <li><a href="#"> Haircut Styles</a></li>
+                                <li><a href="services.php">Gemini Man </a></li>
+                                <li><a href="services.php">Le Parrain</a></li>
+                                <li><a href="services.php">Sonic</a></li>
                             </ul>
                         </div>
                     </div>
@@ -760,9 +759,9 @@ Encore un véritable chef-d’œuvre qui marque à jamais quiconque regarde ce f
                                 Suivez nous
                             </h3>
                             <ul class="links">
-                                <li><a href="#">FaceBook</a></li>
-                                <li><a href="#">Instagram</a></li>
-                                <li><a href="#"> Twitter</a></li>
+                                <li><a href="https://fr-fr.facebook.com/">FaceBook</a></li>
+                                <li><a href="https://www.instagram.com/?hl=fr">Instagram</a></li>
+                                <li><a href="https://twitter.com/login?lang=fr"> Twitter</a></li>
                             </ul>
                         </div>
                     </div>
