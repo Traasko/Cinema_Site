@@ -178,7 +178,7 @@
                 <div class="col-xl-12">
                     <div class="section_title mb-40 text-center">
                         <h3>
-                            Testimonial
+                            Commentaires, avis
                         </h3>
                     </div>
                 </div>
@@ -190,12 +190,12 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-7 col-md-10">
                                     <div class="single_testmonial text-center">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+                                        <p>Dans le cinéma, il y a des claques visuels, des claques sonores mais pas que ; il y a aussi des claques émotionnelles tel que ce long-métrage.</p>
                                         <div class="testmonial_author">
                                             <div class="thumb">
                                                 <img src="img/testmonial/1.png" alt="">
                                             </div>
-                                            <h3>Watson, web developer</h3>
+                                            <h3>Watson, responsable rédaction</h3>
                                         </div>
                                     </div>
                                 </div>
@@ -205,12 +205,12 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-7 col-md-10">
                                     <div class="single_testmonial text-center">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+                                        <p>Magnifique, somptueux, magistral, aucune superlatif n'est de trop pour décrire ce film. Tout est parfait!</p>
                                         <div class="testmonial_author">
                                             <div class="thumb">
                                                 <img src="img/testmonial/1.png" alt="">
                                             </div>
-                                            <h3>Watson, web developer</h3>
+                                            <h3>Watson, responsable rédaction</h3>
                                         </div>
                                     </div>
                                 </div>
@@ -220,12 +220,12 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-7 col-md-10">
                                     <div class="single_testmonial text-center">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+                                        <p>Encore un véritable chef-d’œuvre qui marque à jamais quiconque regarde ce film sublime.</p>
                                         <div class="testmonial_author">
                                             <div class="thumb">
                                                 <img src="img/testmonial/1.png" alt="">
                                             </div>
-                                            <h3>Watson, web developer</h3>
+                                            <h3>Watson, responsable rédaction</h3>
                                         </div>
                                     </div>
                                 </div>

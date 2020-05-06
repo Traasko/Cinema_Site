@@ -58,6 +58,7 @@
                                                 <li><a href="apropos.php">A propos</a></li>
                                                 <li><a href="contact.php">Contact</a></li>
                                                 <li><a href="../formulaire/connexion.php">S'identifier</a></li>
+                                                <button class="btn btn-danger"><a href="../formulaire/reservation.php">Réservation</a></button>
                                               </ul>
                                         </nav>
                                     </div>
@@ -600,7 +601,7 @@ Sur présentation d'une carte étudiante </p>
                                 <div class="col-lg-7 col-md-10">
                                     <div class="single_testmonial text-center">
                                         <p>
-Encore un véritable chef-d’œuvre qui marque à jamais quiconque regarde ce film sublime.</p>
+                                          Encore un véritable chef-d’œuvre qui marque à jamais quiconque regarde ce film sublime.</p>
                                         <div class="testmonial_author">
                                             <div class="thumb">
                                                 <img src="img/testmonial/1.png" alt="">
