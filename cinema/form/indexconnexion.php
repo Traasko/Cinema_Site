@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-    <title>Page admin</title>
+    <title>Page de connexion</title>
     <title>Page admin</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -57,7 +57,7 @@
                                                 <li><a href="services.php">Services</a></li>
                                                 <li><a href="apropos.php">A propos</a></li>
                                                 <li><a href="contact.php">Contact</a></li>
-                                                <li><a href="../formulaire/connexion.php">S'identifier</a></li>
+                                                <li><a href="../formulaire/connexion.php">Mon compte</a></li>
                                                 <button class="btn btn-danger"><a href="../formulaire/reservation.php">Réservation</a></button>
                                               </ul>
                                         </nav>

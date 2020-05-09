@@ -31,12 +31,12 @@
 					</span>
 
 					<div class="wrap-input100 validate-input" data-validate = "Entrez votre nom">
-						<input class="input100" type="text" id="pseudo" name="pseudo" placeholder="Nom">
+						<input class="input100" type="text" id="nom" name="nom" placeholder="Nom">
 						<span class="focus-input100" data-placeholder="&#xf207;"></span>
 					</div>
 
 					<div class="wrap-input100 validate-input" data-validate="Entrez votre mot de passe">
-						<input class="input100" type="password" id="mdp1" name="mdp"  placeholder="Mot de passe">
+						<input class="input100" type="password" id="mdp" name="mdp"  placeholder="Mot de passe">
 						<span class="focus-input100" data-placeholder="&#xf191;"></span>
 					</div>
 
