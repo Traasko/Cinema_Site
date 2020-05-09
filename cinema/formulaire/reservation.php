@@ -35,13 +35,13 @@
 
           <div class="wrap-input100 validate-input m-b-23" data-validate = "Entrez une Date">
 						<span class="label-input100">Date</span>
-						<input class="input100" type="text" name="date" placeholder="Entrez une Date">
+						<input class="input100" type="date" name="date" placeholder="Entrez une Date">
 						<span class="focus-input100" data-symbol="&#xf206;"></span>
 					</div>
 
           <div class="wrap-input100 validate-input m-b-23" data-validate = "Entrez une heur">
 						<span class="label-input100">Heur</span>
-						<input class="input100" type="text" name="heur" placeholder="Entrez une heur">
+						<input class="input100" type="time" name="heur" placeholder="Entrez une heur">
 						<span class="focus-input100" data-symbol="&#xf206;"></span>
 					</div>
 

@@ -58,7 +58,7 @@
                                                 <li><a href="apropos.php">A propos</a></li>
                                                 <li><a href="contact.php">Contact</a></li>
                                                 <li><a href="../formulaire/connexion.php">S'identifier</a></li>
-                                                <button class="btn btn-danger"><a href="../formulaire/reservation.php">Réservation</a></button>
+        
                                               </ul>
                                         </nav>
                                     </div>

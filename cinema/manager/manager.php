@@ -42,6 +42,17 @@ public function Connexion($con){
 
  }
 
+ public function Reservation($res){
+    $bdd = new PDO('mysql:host=localhost;dbname=cinema_site;charset=utf8','root','');
+    $r = $bdd->prepare('INSERT INTO reservation (nom, date, heur, film) VALUES (:nom, :date, :heur, :film)');
+    $r->execute(array(
+      'nom' => $res->getNom(),
+      'date' => $res->getDate(),
+      'heur' => $res->getHeur(),
+      'film' => $res->getFilm()
+    ));
+ }
+
 }
 
  ?>
