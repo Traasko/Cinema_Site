@@ -34,46 +34,7 @@
 
     <!-- header-start -->
     <header>
-        <div class="header-area ">
-            <div id="sticky-header" class="main-header-area">
-                <div class="container">
-                    <div class="row align-items-center">
-                        <div class="col-xl-3 col-lg-3">
-                            <div class="logo-img">
-                                <a href="index.php">
-                                    <img src="img/logo.png" alt="">
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-xl-9 col-lg-9">
-                            <div class="menu_wrap d-none d-lg-block">
-                                <div class="menu_wrap_inner d-flex align-items-center justify-content-end">
-                                    <div class="main-menu">
-                                        <nav>
-                                            <ul id="navigation">
-                                                <li><a class="active" href="index.php">Accueil</a></li>
-
-
-                                                <li><a href="contact.php">Contact</a></li>
-                                                <li><a href="../formulaire/connexion.php">S'identifier</a></li>
-                                              </ul>
-                                        </nav>
-                                    </div>
-                                    <div class="book_room">
-                                        <div class="book_btn">
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-12">
-                            <div class="mobile_menu d-block d-lg-none"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        
     </header>
     <!-- header-end -->
 
@@ -292,23 +253,12 @@ Les actualités liées à l’évolution de cette situation seront mises à jour
                             </h3>
                             <ul class="links">
                                 <li><a href="apropos.php">A propos</a></li>
-                                <li><a href="services.php">Services</a></li>
+
                                 <li><a href="contact.php">Contact</a></li>
                             </ul>
                         </div>
                     </div>
-                    <div class="col-xl-2  col-md-6 col-lg-2">
-                        <div class="footer_widget">
-                            <h3 class="footer_title">
-                                Services
-                            </h3>
-                            <ul class="links">
-                                <li><a href="services.php">Gemini Man </a></li>
-                                <li><a href="services.php">Le Parrain</a></li>
-                                <li><a href="services.php">Sonic</a></li>
-                            </ul>
-                        </div>
-                    </div>
+
                     <div class="col-xl-2  col-md-6 col-lg-2">
                         <div class="footer_widget">
                             <h3 class="footer_title">

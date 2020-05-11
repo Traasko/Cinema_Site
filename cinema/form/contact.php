@@ -50,13 +50,16 @@
                                 <div class="menu_wrap_inner d-flex align-items-center justify-content-end">
                                     <div class="main-menu">
                                         <nav>
-                                            <ul id="navigation">
-                                                <li><a class="active" href="index.php">Accueil</a></li>
-                                                <li><a href="services.php">Services</a></li>
-                                                <li><a href="apropos.php">A propos</a></li>
-                                                <li><a href="contact.php">Contact</a></li>
-                                                <li><a href="../formulaire/connexion.php">S'identifier</a></li>
-                                              </ul>
+                                          <ul id="navigation">
+                                              <li><a class="active" href="indexconnexion.php">Accueil</a></li>
+
+                                              <li><a href="apropos.php">A propos</a></li>
+
+                                              <li><a href="../form/compte.php">Mon compte</a></li>
+                                                <li><a href="deconnexion.php">Déconnexion</a></li>
+                                              <button class="btn btn-danger"><a href="../formulaire/reservation.php">Réservation</a></button>
+
+                                            </ul>
                                         </nav>
                                     </div>
                                     <div class="book_room">
@@ -78,7 +81,7 @@
     <!-- header-end -->
 
      <!-- bradcam_area_start -->
-     <div class="bradcam_area breadcam_bg overlay">
+     <div class="bradcam_area bradcam_bg overlay">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -109,28 +112,24 @@
                         <h2 class="contact-title">Message</h2>
                     </div>
                     <div class="col-lg-8">
-                        <form class="form-contact contact_form" action="contact_process.php" method="post" id="contactForm" novalidate="novalidate">
+                        <form class="form-contact contact_form" action="../traitement/traitement_contact.php" method="post" >
                             <div class="row">
                                 <div class="col-12">
                                     <div class="form-group">
-                                        <textarea class="form-control w-100" name="message" id="message" cols="30" rows="9" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Message'" placeholder="Message"></textarea>
+                                        <textarea class="form-control w-100" name="msg" id="msg" cols="30" rows="9" placeholder="Message" required="required"></textarea>
                                     </div>
                                 </div>
                                 <div class="col-sm-6">
                                     <div class="form-group">
-                                        <input class="form-control valid" name="name" id="name" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter your name'" placeholder="Votre nom">
+                                        <input class="form-control valid" name="nom" id="nom" type="text" placeholder="Votre nom"required="required">
                                     </div>
                                 </div>
                                 <div class="col-sm-6">
                                     <div class="form-group">
-                                        <input class="form-control valid" name="email" id="email" type="email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter email address'" placeholder="Email">
+                                        <input class="form-control valid" name="prenom" id="prenom" type="text" placeholder="Prénom"required="required">
                                     </div>
                                 </div>
-                                <div class="col-12">
-                                    <div class="form-group">
-                                        <input class="form-control" name="subject" id="subject" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Subject'" placeholder="Sujet">
-                                    </div>
-                                </div>
+                                
                             </div>
                             <div class="form-group mt-3">
                                 <button type="submit" class="button button-contactForm boxed-btn">Envoyer</button>
@@ -208,23 +207,11 @@
                             </h3>
                             <ul class="links">
                                 <li><a href="apropos.php">A propos</a></li>
-                                <li><a href="services.php">Services</a></li>
-                                <li><a href="contact.php">Contact</a></li>
+
                             </ul>
                         </div>
                     </div>
-                    <div class="col-xl-2  col-md-6 col-lg-2">
-                        <div class="footer_widget">
-                            <h3 class="footer_title">
-                                Services
-                            </h3>
-                            <ul class="links">
-                                <li><a href="services.php">Gemini Man </a></li>
-                                <li><a href="services.php">Le Parrain</a></li>
-                                <li><a href="services.php">Sonic</a></li>
-                            </ul>
-                        </div>
-                    </div>
+
                     <div class="col-xl-2  col-md-6 col-lg-2">
                         <div class="footer_widget">
                             <h3 class="footer_title">

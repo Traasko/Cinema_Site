@@ -58,7 +58,7 @@ session_start();
                                         <nav>
                                             <ul id="navigation">
                                                 <li><a class="active" href="indexconnexion.php">Accueil</a></li>
-                                                <li><a href="services.php">Services</a></li>
+                                            
                                                 <li><a href="apropos.php">A propos</a></li>
                                                 <li><a href="contact.php">Contact</a></li>
                                                 <li><a href="../form/compte.php">Mon compte</a></li>

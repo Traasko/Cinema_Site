@@ -53,6 +53,16 @@ public function Connexion($con){
     ));
  }
 
+ public function Contact($con){
+    $bdd = new PDO('mysql:host=localhost;dbname=cinema_site;charset=utf8','root','');
+    $r = $bdd->prepare('INSERT INTO contact (msg, nom, prenom) VALUES (:message, :nom, :prenom)');
+    $r->execute(array(
+      'msg' => $con->getMsg(),
+      'nom' => $con->getNom(),
+      'prenom' => $con->getPrenom()
+    ));
+ }
+
 }
 
  ?>
