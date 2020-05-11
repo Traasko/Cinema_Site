@@ -54,11 +54,11 @@
                                         <nav>
                                             <ul id="navigation">
                                                 <li><a class="active" href="index.php">Accueil</a></li>
-                                                <li><a href="services.php">Services</a></li>
+
                                                 <li><a href="apropos.php">A propos</a></li>
-                                                <li><a href="contact.php">Contact</a></li>
+                                                <li><a href="contact2.php">Contact</a></li>
                                                 <li><a href="../formulaire/connexion.php">S'identifier</a></li>
-        
+
                                               </ul>
                                         </nav>
                                     </div>
@@ -632,66 +632,9 @@ Sur présentation d'une carte étudiante </p>
             </div>
         </div>
     </div>
-    <!-- /testimonial_area  -->
 
-    <div class="make_apppointment_area">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="section_title pl-68">
-                        <h3>Nous contacter</h3>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-7">
-                    <div class="appoint_ment_form pl-68">
-                        <form action="#">
-                            <div class="single_field">
-                                <input type="text" placeholder="Nom">
-                            </div>
-                            <div class="single_field">
-                                <input type="text" placeholder="Email">
-                            </div>
-                            <div class="single_field m-0">
-                                <textarea id="" cols="30" rows="10" placeholder="Message"></textarea>
-                            </div>
-                            <p>Pour toute informations, envoyez un message au support.  <br>
-                                Nous vous répondrons dans les prochaines 24 heures. </p>
-                            <div class="form_btn">
-                                <button class="boxed-btn3" type="submit"> Envoyer</button>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-                <div class="col-lg-4 offset-lg-1">
-                    <div class="appointMent_info">
-                        <div class="single_appontment">
-                            <h4>Visitez nos locaux</h4>
-                            <p>Avenue des Champs-Élysées, Paris -
-                                France </p>
-                        </div>
-                        <div class="single_appontment">
-                            <h4>Message</h4>
-                            <p>Support@trasgoii.net <br>
-                                (+33) 761493477</p>
-                        </div>
-                        <div class="single_appontment">
-                            <h4>Horaires d'ouvertures</h4>
-                            <p class="d-flex justify-content-between">
-                                <span>Lundi - Jeudi</span>
-                                <span>:  09.00 - 23.00</span>
-                            </p>
-                            <p class="d-flex justify-content-between">
-                                <span>Samedi</span>
-                                <span>:  09.00 - 16.00s</span>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+
+
 
 
     <!-- footer_start  -->
@@ -738,22 +681,11 @@ Sur présentation d'une carte étudiante </p>
                             <ul class="links">
                                 <li><a href="apropos.php">A propos</a></li>
                                 <li><a href="services.php">Services</a></li>
-                                <li><a href="contact.php">Contact</a></li>
+                                <li><a href="contact2.php">Contact</a></li>
                             </ul>
                         </div>
                     </div>
-                    <div class="col-xl-2  col-md-6 col-lg-2">
-                        <div class="footer_widget">
-                            <h3 class="footer_title">
-                                Services
-                            </h3>
-                            <ul class="links">
-                                <li><a href="services.php">Gemini Man </a></li>
-                                <li><a href="services.php">Le Parrain</a></li>
-                                <li><a href="services.php">Sonic</a></li>
-                            </ul>
-                        </div>
-                    </div>
+
                     <div class="col-xl-2  col-md-6 col-lg-2">
                         <div class="footer_widget">
                             <h3 class="footer_title">

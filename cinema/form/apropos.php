@@ -52,8 +52,8 @@
                                         <nav>
                                             <ul id="navigation">
                                                 <li><a class="active" href="index.php">Accueil</a></li>
-                                                <li><a href="services.php">Services</a></li>
-                                                <li><a href="apropos.php">A propos</a></li>
+
+
                                                 <li><a href="contact.php">Contact</a></li>
                                                 <li><a href="../formulaire/connexion.php">S'identifier</a></li>
                                               </ul>
@@ -78,7 +78,7 @@
     <!-- header-end -->
 
      <!-- bradcam_area_start -->
-     <div class="bradcam_area breadcam_bg overlay">
+     <div class="bradcam_area bradcam_bg overlay">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -93,7 +93,7 @@
     <div class="about_area ">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-xl-6 col-lg-6 col-md-6">
+                <div class="col-xl-9 col-lg-6 col-md-6">
                     <div class="about_thumbs">
                         <div class="large_img_1">
                             <img src="img/about/about_lft.png" alt="">
@@ -106,14 +106,23 @@
                 <div class="col-xl-6 col-lg-6 col-md-6">
                     <div class="about_info">
                         <div class="section_title mb-20px">
-                            <h3>Nous concernant</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing eliteiusmod tempor incididunt ut labore et dolore magna aliqua. Qpsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Quis ipsum suspendisse ultr.</p>
+                            <h3>Important ! </h3>
+                            <p> Cher(e)s client(e)s, <br>
+
+
+
+Votre cinéma est fermé.<br><br/>
+
+Information mise à jour le 15 avril 2020 :<br/>
+
+
+
+Afin de préserver la sécurité et la santé de nos spectateurs ainsi que celles de nos collaborateurs, votre cinéma est temporairement fermé.
+
+Les actualités liées à l’évolution de cette situation seront mises à jour ici-même ainsi que sur nos réseaux sociaux.</p>
                         </div>
-                        <p class="opening_hour">
-                            Heures d'ouvertures
-                            <span>10:30 - 23:59 </span>
-                        </p>
-                        <a href="about.html" class="boxed-btn3">Nous concernant</a>
+
+
                     </div>
                 </div>
             </div>
@@ -238,64 +247,7 @@
     </div>
     <!-- /testimonial_area  -->
 
-    <div class="make_apppointment_area">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="section_title pl-68">
-                        <h3>Nous contacter</h3>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-7">
-                    <div class="appoint_ment_form pl-68">
-                        <form action="#">
-                            <div class="single_field">
-                                <input type="text" placeholder="Nom">
-                            </div>
-                            <div class="single_field">
-                                <input type="text" placeholder="Email">
-                            </div>
-                            <div class="single_field m-0">
-                                <textarea id="" cols="30" rows="10" placeholder="Message"></textarea>
-                            </div>
-                            <p>Pour toute informations, envoyez un message au support.  <br>
-                                Nous vous répondrons dans les prochaines 24 heures. </p>
-                            <div class="form_btn">
-                                <button class="boxed-btn3" type="submit"> Envoyer</button>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-                <div class="col-lg-4 offset-lg-1">
-                    <div class="appointMent_info">
-                        <div class="single_appontment">
-                            <h4>Visitez nos locaux</h4>
-                            <p>Avenue des Champs-Élysées, Paris -
-                                France </p>
-                        </div>
-                        <div class="single_appontment">
-                            <h4>Message</h4>
-                            <p>Support@trasgoii.net <br>
-                                (+33) 761493477</p>
-                        </div>
-                        <div class="single_appontment">
-                            <h4>Horaires d'ouvertures</h4>
-                            <p class="d-flex justify-content-between">
-                                <span>Lundi - Jeudi</span>
-                                <span>:  09.00 - 23.00</span>
-                            </p>
-                            <p class="d-flex justify-content-between">
-                                <span>Samedi</span>
-                                <span>:  09.00 - 16.00s</span>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+
 
     <!-- footer_start  -->
     <footer class="footer">

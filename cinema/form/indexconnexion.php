@@ -61,8 +61,10 @@ session_start();
                                                 <li><a href="services.php">Services</a></li>
                                                 <li><a href="apropos.php">A propos</a></li>
                                                 <li><a href="contact.php">Contact</a></li>
-                                                <li><a href="../formulaire/modification.php">Mon compte</a></li>
+                                                <li><a href="../form/compte.php">Mon compte</a></li>
+                                                  <li><a href="deconnexion.php">Déconnexion</a></li>
                                                 <button class="btn btn-danger"><a href="../formulaire/reservation.php">Réservation</a></button>
+
                                               </ul>
                                         </nav>
                                     </div>

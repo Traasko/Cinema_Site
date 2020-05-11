@@ -52,9 +52,9 @@
                                         <nav>
                                             <ul id="navigation">
                                                 <li><a class="active" href="index.php">Accueil</a></li>
-                                                <li><a href="services.php">Services</a></li>
+
                                                 <li><a href="apropos.php">A propos</a></li>
-                                                <li><a href="contact.php">Contact</a></li>
+
                                                 <li><a href="../formulaire/connexion.php">S'identifier</a></li>
                                               </ul>
                                         </nav>
@@ -78,133 +78,35 @@
     <!-- header-end -->
 
      <!-- bradcam_area_start -->
-     <div class="bradcam_area breadcam_bg overlay">
+     <div class="bradcam_area bradcam_bg overlay">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h3>Services</h3>
+                    <h3>contact</h3>
                 </div>
             </div>
         </div>
     </div>
     <!-- bradcam_area_end -->
 
-    <div class="service_area">
-        <div class="container">
-            <div class="row justify-content-center ">
-                <div class="col-lg-6 col-md-10">
-                    <div class="section_title text-center mb-55">
-                        <h3>Nos services</h3>
-                        <p>Voici les films les plus populaires au sein de ce cinéma</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row justify-content-center">
-                <div class="col-lg-4 col-md-6">
-                    <div class="single_service">
-                         <div class="service_thumb">
-                             <img src="img/service/1.png" alt="">
-                         </div>
-                         <div class="service_content text-center">
-                            <div class="icon">
-                                <i class="flaticon-shave"></i>
-                            </div>
-                            <h3>Gemini Man</h3>
-                            <p>Will Smith se dédouble sur l'affiche française de GEMINI MAN, le nouveau film d'Ang Lee, où il incarne un tueur professionnel pris pour cible par un mystérieux jeune agent qui s'avère être... lui-même </p>
-                         </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="single_service">
-                         <div class="service_thumb">
-                             <img src="img/service/2.png" alt="">
-                         </div>
-                         <div class="service_content text-center">
-                            <div class="icon">
-                                <i class="flaticon-barber"></i>
-                            </div>
-                            <h3>Le Parrain</h3>
-                            <p>En 1945, à New York, les Corleone sont une des cinq familles de la mafia. Don Vito Corleone, "parrain" de cette famille, marie sa fille à un bookmaker. Sollozzo, " parrain " de la famille Tattaglia, propose à Don Vito une association.</p>
-                         </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="single_service">
-                         <div class="service_thumb">
-                             <img src="img/service/3.png" alt="">
-                         </div>
-                         <div class="service_content text-center">
-                            <div class="icon">
-                                <i class="flaticon-null"></i>
-                            </div>
-                            <h3>Sonic</h3>
-                            <p>L'histoire du hérisson bleu le plus rapide du monde qui arrive sur Terre, sa nouvelle maison. Sonic et son nouveau meilleur ami Tom font équipe pour sauver la planète du diabolique Dr. Robotnik, bien déterminé à régner sur le monde entier.</p>
-                         </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    <!-- ================ contact section start ================= -->
+    <section class="contact-section">
+      <div class="service_area">
+          <div class="container">
+              <div class="row justify-content-center ">
+                  <div class="col-lg-6 col-md-10">
+                      <div class="section_title text-center mb-55">
+                        <h1>Pour pouvoir nous contacter, il faut vous identifier ou vous créer un compte.</h1>
 
 
-    <div class="make_apppointment_area">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="section_title pl-68">
-                        <h3>Nous contacter</h3>
-                    </div>
                 </div>
+              </div>
+
+
+
             </div>
-            <div class="row">
-                <div class="col-lg-7">
-                    <div class="appoint_ment_form pl-68">
-                        <form action="#">
-                            <div class="single_field">
-                                <input type="text" placeholder="Nom">
-                            </div>
-                            <div class="single_field">
-                                <input type="text" placeholder="Email">
-                            </div>
-                            <div class="single_field m-0">
-                                <textarea id="" cols="30" rows="10" placeholder="Message"></textarea>
-                            </div>
-                            <p>Pour toute informations, envoyez un message au support.  <br>
-                                Nous vous répondrons dans les prochaines 24 heures. </p>
-                            <div class="form_btn">
-                                <button class="boxed-btn3" type="submit"> Envoyer</button>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-                <div class="col-lg-4 offset-lg-1">
-                    <div class="appointMent_info">
-                        <div class="single_appontment">
-                            <h4>Visitez nos locaux</h4>
-                            <p>Avenue des Champs-Élysées, Paris -
-                                France </p>
-                        </div>
-                        <div class="single_appontment">
-                            <h4>Message</h4>
-                            <p>Support@trasgoii.net <br>
-                                (+33) 761493477</p>
-                        </div>
-                        <div class="single_appontment">
-                            <h4>Horaires d'ouvertures</h4>
-                            <p class="d-flex justify-content-between">
-                                <span>Lundi - Jeudi</span>
-                                <span>:  09.00 - 23.00</span>
-                            </p>
-                            <p class="d-flex justify-content-between">
-                                <span>Samedi</span>
-                                <span>:  09.00 - 16.00s</span>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+        </section>
+    <!-- ================ contact section end ================= -->
 
     <!-- footer_start  -->
     <footer class="footer">
@@ -249,23 +151,11 @@
                             </h3>
                             <ul class="links">
                                 <li><a href="apropos.php">A propos</a></li>
-                                <li><a href="services.php">Services</a></li>
-                                <li><a href="contact.php">Contact</a></li>
+
                             </ul>
                         </div>
                     </div>
-                    <div class="col-xl-2  col-md-6 col-lg-2">
-                        <div class="footer_widget">
-                            <h3 class="footer_title">
-                                Services
-                            </h3>
-                            <ul class="links">
-                                <li><a href="services.php">Gemini Man </a></li>
-                                <li><a href="services.php">Le Parrain</a></li>
-                                <li><a href="services.php">Sonic</a></li>
-                            </ul>
-                        </div>
-                    </div>
+                  
                     <div class="col-xl-2  col-md-6 col-lg-2">
                         <div class="footer_widget">
                             <h3 class="footer_title">
@@ -346,41 +236,38 @@
         </form>
 <!-- form itself end -->
 
-    <!-- JS here -->
-    <script src="js/vendor/modernizr-3.5.0.min.js"></script>
-    <script src="js/vendor/jquery-1.12.4.min.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/isotope.pkgd.min.js"></script>
-    <script src="js/ajax-form.js"></script>
-    <script src="js/waypoints.min.js"></script>
-    <script src="js/jquery.counterup.min.js"></script>
-    <script src="js/imagesloaded.pkgd.min.js"></script>
-    <script src="js/scrollIt.js"></script>
-    <script src="js/jquery.scrollUp.min.js"></script>
-    <script src="js/wow.min.js"></script>
-    <script src="js/nice-select.min.js"></script>
-    <script src="js/jquery.slicknav.min.js"></script>
-    <script src="js/jquery.magnific-popup.min.js"></script>
-    <script src="js/plugins.js"></script>
-    <script src="js/gijgo.min.js"></script>
+        <!-- JS here -->
+        <script src="js/vendor/modernizr-3.5.0.min.js"></script>
+        <script src="js/vendor/jquery-1.12.4.min.js"></script>
+        <script src="js/popper.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/owl.carousel.min.js"></script>
+        <script src="js/isotope.pkgd.min.js"></script>
+        <script src="js/ajax-form.js"></script>
+        <script src="js/waypoints.min.js"></script>
+        <script src="js/jquery.counterup.min.js"></script>
+        <script src="js/imagesloaded.pkgd.min.js"></script>
+        <script src="js/scrollIt.js"></script>
+        <script src="js/jquery.scrollUp.min.js"></script>
+        <script src="js/wow.min.js"></script>
+        <script src="js/nice-select.min.js"></script>
+        <script src="js/jquery.slicknav.min.js"></script>
+        <script src="js/jquery.magnific-popup.min.js"></script>
+        <script src="js/plugins.js"></script>
+        <script src="js/gijgo.min.js"></script>
 
-    <!--contact js-->
-    <script src="js/contact.js"></script>
-    <script src="js/jquery.ajaxchimp.min.js"></script>
-    <script src="js/jquery.form.js"></script>
-    <script src="js/jquery.validate.min.js"></script>
-    <script src="js/mail-script.js"></script>
+        <!--contact js-->
+        <script src="js/contact.js"></script>
+        <script src="js/jquery.ajaxchimp.min.js"></script>
+        <script src="js/jquery.form.js"></script>
+        <script src="js/jquery.validate.min.js"></script>
+        <script src="js/mail-script.js"></script>
 
-    <script src="js/main.js"></script>
-    <script>
+        <script src="js/main.js"></script>
+        <script>
         $('#datepicker').datepicker({
             iconsLibrary: 'fontawesome',
             disableDaysOfWeek: [0, 0],
-        //     icons: {
-        //      rightIcon: '<span class="fa fa-caret-down"></span>'
-        //  }
         });
         $('#datepicker2').datepicker({
             iconsLibrary: 'fontawesome',
@@ -392,7 +279,7 @@
         var timepicker = $('#timepicker').timepicker({
          format: 'HH.MM'
      });
-    </script>
-</body>
+        </script>
+    </body>
 
-</html>
+    </html>

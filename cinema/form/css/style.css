@@ -16,8 +16,9 @@
 /* line 13, ../../Arafath/CL/january 2020/238. Barber/HTML/scss/_extend.scss */
 .overlay::before {
   background-image: -moz-linear-gradient(170deg, rgba(34, 34, 34, 0) 0%, black 100%);
-  background-image: -webkit-linear-gradient(170deg, rgba(34, 34, 34, 0) 0%, black 100%);
+  background-image: -webkit-linear-gradient(170deg, rgba(34, 34, 34, 0) 0%, #007bff 100%);
   background-image: -ms-linear-gradient(170deg, rgba(34, 34, 34, 0) 0%, black 100%);
+
 }
 
 /* Normal desktop :1200px. */
