@@ -21,7 +21,7 @@ session_start();
 
 
                                                 <li><a class="active" href="indexconnexion.php">Modifier ses informations</a></li>
-                                                <li><a href="services.php">Voir les réservations éffectuées</a></li>
+                                                <li><a href="voirreservation.php">Voir les réservations éffectuées</a></li>
                                                 <li><a href="apropos.php">Commenter un film</a></li>
                                                 <li><a href="contact.php">Besoin d'aide ? Nous contacter</a></li>
 
