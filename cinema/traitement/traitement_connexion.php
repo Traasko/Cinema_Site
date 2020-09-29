@@ -7,4 +7,5 @@ $user = new Connexion($_POST['nom'], $_POST['mdp']);
 $manager = new Manager();
 $manager->connexion($user);
 
+var_dump($user);
 ?>
